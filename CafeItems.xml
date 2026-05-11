@@ -531,7 +531,7 @@
 <wod id="1255" n="Basic" g="Dish" t="Omelette" events="0" xp="2" incomePerServing="100" servings="5" duration="1" level="1" dishcategory="5" requirements="1311+1#1402+1" />
 <wod id="1204" n="Basic" g="Dish" t="Tomatosoup" events="0" xp="17" incomePerServing="14" servings="40" duration="10" level="1" dishcategory="2" requirements="1327+1#1318+1#1308+1#1401+1" />
 <wod id="2215" n="Basic" g="Dish" t="Brigadeiro" events="0" xp="41" incomePerServing="5" servings="300" duration="30" level="1" dishcategory="0" requirements="1307+1#1308+1#1408+1" />
-<wod id="1203" n="Basic" g="Dish" t="Chocmousse" events="0" xp="5" incomePerServing="25" servings="10" duration="3" level="4" dishcategory="0" requirements="1346+1#1408+1" />
+<wod id="1203" n="Basic" g="Dish" t="Chocmousse" events="0" xp="291" incomePerServing="4" servings="390" duration="180" level="1" dishcategory="0" requirements="1307+1#1308+1#1311+1#1408+1" />
 <wod id="1202" n="Basic" g="Dish" t="Spagetti" events="0" xp="738" incomePerServing="1" servings="1233" duration="540" level="1" dishcategory="1" requirements="1319+1#1316+1#1327+1#1401+1" />
 <wod id="1230" n="Basic" g="Dish" t="Fruitpudding" events="3" xp="1166" incomePerServing="2" servings="1600" duration="840" level="1" dishcategory="0" requirements="1333+3#1409+1#1336+3" />
 <wod id="1237" n="Basic" g="Dish" t="Easterdish" events="5" xp="1166" incomePerServing="1" servings="3000" duration="840" level="1" dishcategory="0" requirements="1311+3#1307+2#1408+1" />
