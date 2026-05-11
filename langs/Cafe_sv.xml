@@ -1505,6 +1505,12 @@
 		<text id="recipe_ramen" name="Ramen" />
 		<text id="recipe_corncake" name="Majskaka" />
 		<text id="recipe_feijoada" name="Feijoada" />
+		<text id="recipe_pinapjuice" name="Ananasjuice" />
+		<text id="recipe_orangejuice" name="Apelsinjuice" />
+		<text id="recipe_discodrinks" name="Disco-drinkar" />
+		<text id="recipe_applejuice" name="Äppeljuice" />
+		<text id="recipe_rjuice" name="Rabarbersaft" />
+		<text id="recipe_cherryjuice" name="Körsbärssaft" />
 	</recipe>
 	<recipes_fastfood>
 		<text id="recipe_smoothiemaker_greensmoothie" name="Grön-smoothie" />
