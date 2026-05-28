@@ -227,6 +227,8 @@ Se você estocá-la, as porções existentes serão perdidas!" />
 		<text id="cookstep_ratatouille2" name="Stacking" />
 		<text id="cookstep_hotcherryricepudding1" name="Cooking rice" />
 		<text id="cookstep_hotcherryricepudding2" name="Adding cherries" />
+		<text id="cookstep_coconutcake1" name="Mixing ingredients" />
+		<text id="cookstep_coconutcake2" name="Baking cake" />
 		<text id="cookstep_blackforestcherrycake1" name="Misturando ingredientes" />
 		<text id="cookstep_blackforestcherrycake2" name="Assando bolo" />
 		<text id="cookstep_cheeseburger1" name="Fritando carne moída" />
@@ -1181,6 +1183,10 @@ Apenas disponível por tempo limitado!" />
 		<text id="preparestep_hotcherryricepudding_cherries" name="Pit cherries" />
 		<text id="preparestep_hotcherryricepudding_sugar" name="Measure sugar" />
 		<text id="preparestep_hotcherryricepudding_milk" name="Measure milk" />
+		<text id="preparestep_coconutcake_flour" name="Sift flour" />
+		<text id="preparestep_coconutcake_eggs" name="Crack eggs" />
+		<text id="preparestep_coconutcake_coconut" name="Grate coconut" />
+		<text id="preparestep_coconutcake_sugar" name="Measure sugar" />
 		<text id="preparestep_corncake_cinnamon" name="Moer canela" />
 		<text id="preparestep_feijoada_beans" name="Cozinhar feijões" />
 		<text id="preparestep_feijoada_bacon" name="Cortar pedaços de bacon" />
@@ -1472,6 +1478,7 @@ Apenas disponível por tempo limitado!" />
 		<text id="preparestep_pridecupcakes_vanilla" name="Scrape out vanilla" />
 		<text id="preparestep_ratatouille_rosemary" name="Chop rosemary" />
 		<text id="preparestep_hotcherryricepudding_cinnamon" name="Sprinkle cinnamon" />
+		<text id="preparestep_fancy_coconutcake_vanilla" name="Scrape out vanilla" />
 		<text id="preparestep_bananasplit_vanilla" name="raspar baunilha" />
 		<text id="preparestep_blackforestcherrycake_vanilla" name="Raspar baunilha" />
 		<text id="preparestep_pizzasalad_chili" name="Picar Chili" />
@@ -1585,6 +1592,7 @@ Apenas disponível por tempo limitado!" />
 		<text id="recipe_pridecupcakes" name="Pride Cupcakes" />
 		<text id="recipe_ratatouille" name="Ratatouille" />
 		<text id="recipe_hotcherryricepudding" name="Rice Pudding with Hot Cherries" />
+		<text id="recipe_coconutcake" name="Coconut Cake" />
 		<text id="recipe_beefstew" name="Carne Ensopada" />
 		<text id="recipe_blackforestcherrycake" name="Bolo Floresta Negra" />
 		<text id="recipe_cheeseburger" name="X-Burger" />
