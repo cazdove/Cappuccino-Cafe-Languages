@@ -651,6 +651,7 @@
 
 <wod id="1214" n="Basic" g="Dish" t="Friedpotatoes" events="0" xp="143" incomePerServing="9" servings="130" duration="60" level="16" dishcategory="1" requirements="1322+1#1318+1#1301+1#1407+1" />
 <wod id="2230" n="Basic" g="Dish" t="Orangejuice" events="0" xp="90" incomePerServing="9" servings="2222" duration="7" level="16" dishcategory="0" requirements="1340+1#1325+1#1408+1" />
+<wod id="2247" n="Basic" g="Dish" t="Paodequeijo" events="0" xp="1035" incomePerServing="2" servings="1000" duration="500" level="16" dishcategory="5" requirements="1311+1#1305+2#1312+1#1317+1#1407+1" />
 
 <wod id="1215" n="Basic" g="Dish" t="Macncheese" events="0" xp="1322" incomePerServing="1" servings="1400" duration="660" level="17" dishcategory="4" requirements="1319+1#1305+1#1308+1#1404+1" />
 <wod id="2224" n="Basic" g="Dish" t="Sausagepasta" events="0" xp="1577" incomePerServing="2" servings="1340" duration="840" level="17" dishcategory="1" requirements="1319+1#1344+1#1327+1#1403+1" />
@@ -680,13 +681,16 @@
 <wod id="2238" n="Basic" g="Dish" t="Ducktatters" events="0" xp="2067" incomePerServing="2" servings="1912" duration="960" level="25" dishcategory="1" requirements="1341+1#1319+3#1317+1#1406+1" />
 
 <wod id="1238" n="Basic" g="Dish" t="Chocolatefondue" events="0" xp="415" incomePerServing="4" servings="325" duration="150" level="26" dishcategory="0" requirements="1307+1#1308+1#1328+1#1409+1" />
+<wod id="2248" n="Basic" g="Dish" t="Baiaodedois" events="0" xp="1150" incomePerServing="2" servings="735" duration="450" level="26" dishcategory="1" requirements="1324+1#1303+1#1305+1#1301+1#1318+1#1403+1" />
 
 <wod id="1225" n="Basic" g="Dish" t="Sushi" events="0" xp="2153" incomePerServing="1" servings="2000" duration="960" level="27" dishcategory="5" requirements="1405+1#1324+1#1329+1#1309+1" />
 <wod id="2245" n="Basic" g="Dish" t="Dorayaki" events="0" xp="44" incomePerServing="39" servings="50" duration="15" level="27" dishcategory="0" requirements="1312+1#1311+1#1303+1#1325+1#1408+1" />
 
 <wod id="1240" n="Basic" g="Dish" t="Redberrycompote" events="0" xp="1649" incomePerServing="3" servings="1400" duration="660" level="28" dishcategory="0" requirements="1325+1#1339+1#1328+1#1323+1#1408+1" />
+<wod id="2250" n="Basic" g="Dish" t="Butterchicken" events="0" xp="345" incomePerServing="12" servings="278" duration="120" level="28" dishcategory="1" requirements="1327+1#1306+1#1308+1#1337+1#1349+1#1403+1" />
 
 <wod id="1226" n="Basic" g="Dish" t="Chocolatecake" events="0" xp="2030" incomePerServing="1" servings="1500" duration="840" level="29" dishcategory="0" requirements="1312+1#1307+1#1308+1#1311+1#1408+1" />
+<wod id="2249" n="Basic" g="Dish" t="Bakedalaska" events="0" xp="2598" incomePerServing="1" servings="2295" duration="1200" level="29" dishcategory="0" requirements="1308+1#1311+1#1325+1#1408+1" />
 
 <wod id="1247" n="Basic" g="Dish" t="Pizzatonno" events="0" xp="1443" incomePerServing="2" servings="1200" duration="540" level="30" dishcategory="5" requirements="1305+1#1312+1#1318+1#1327+1#1329+1#1405+1" />
 <wod id="2242" n="Basic" g="Dish" t="Carrotcake" events="0" xp="2283" incomePerServing="1" servings="2450" duration="960" level="30" dishcategory="0" requirements="1338+1#1312+1#1342+1#1307+1#1330+1#1408+1" />
@@ -711,8 +715,10 @@
 <wod id="1259" n="Basic" g="Dish" t="Veggiecurry" events="0" xp="2035" incomePerServing="2" servings="2170" duration="720" level="36" dishcategory="5" requirements="1302+1#1310+1#1348+1#1349+1#1324+1#1403+1" />
 
 <wod id="1232" n="Basic" g="Dish" t="Roastchicken" events="0" xp="3222" incomePerServing="1" servings="2500" duration="1320" level="37" dishcategory="1" requirements="1306+1#1337+2#1318+3#1406+1" />
+<wod id="2251" n="Basic" g="Dish" t="Chickenbiryani" events="0" xp="676" incomePerServing="13" servings="200" duration="210" level="37" dishcategory="1" requirements="1327+1#1318+1#1324+1#1306+1#1322+1#1403+1" />
 
 <wod id="2233" n="Basic" g="Dish" t="Cherryjuice" events="0" xp="25" incomePerServing="10" servings="259" duration="6" level="38" dishcategory="0" requirements="1339+5#1325+1#1408+1" />
+<wod id="2252" n="Basic" g="Dish" t="Cottagepotatoes" events="0" xp="3822" incomePerServing="1" servings="2928" duration="1260" level="38" dishcategory="1" requirements="1308+1#1318+1#1332+1#1337+1#1322+2#1406+1" />
 
 <wod id="1233" n="Basic" g="Dish" t="Fishandchips" events="0" xp="1497" incomePerServing="4" servings="1200" duration="480" level="39" dishcategory="5" requirements="1329+1#1322+1#1312+1#1317+5#1320+1#1406+1" />
 
@@ -915,4 +921,12 @@
 <wod id="2203" n="Smoothie" g="Fastfood" t="Kiba" cash="0" gold="1" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="12" level="0" incomePerServing="3" servings="30" color="E65C8A" ratingBonus="60" />
 <wod id="2204" n="Smoothie" g="Fastfood" t="Pinacolada" cash="0" gold="2" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="20" level="0" incomePerServing="4" servings="50" color="EBA600" ratingBonus="80" />
 <wod id="6000" n="Smoothie" g="Fastfood" t="Defensepotion" cash="1500" gold="0" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="5" level="0" incomePerServing="1" servings="25" color="03FCEC" ratingBonus="30" />
+<wod id="6000" n="Smoothie" g="Fastfood" t="Defensepotion" cash="1300" gold="0" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="6" level="0" incomePerServing="1" servings="14" color="03FCEC" ratingBonus="24" />
+<wod id="6001" n="Smoothie" g="Fastfood" t="Milk" cash="1600" gold="0" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="6" level="0" incomePerServing="1" servings="18" color="FDFFF5" ratingBonus="28" />
+<wod id="6002" n="Smoothie" g="Fastfood" t="Soymilk" cash="1900" gold="0" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="7" level="0" incomePerServing="2" servings="22" color="D5D2C7" ratingBonus="32" />
+<wod id="6003" n="Smoothie" g="Fastfood" t="Icedcoffee" cash="2200" gold="0" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="7" level="0" incomePerServing="2" servings="26" color="211A12" ratingBonus="36" />
+<wod id="6004" n="Smoothie" g="Fastfood" t="Cola" cash="2800" gold="0" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="9" level="0" incomePerServing="2" servings="30" color="120207" ratingBonus="44" />
+<wod id="6005" n="Smoothie" g="Fastfood" t="Acai" cash="3100" gold="0" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="10" level="0" incomePerServing="2" servings="30" color="48335E" ratingBonus="48" />
+<wod id="6006" n="Smoothie" g="Fastfood" t="Orangesoda" cash="3400" gold="0" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="10" level="0" incomePerServing="3" servings="30" color="FF5F17" ratingBonus="52" />
+<wod id="6007" n="Smoothie" g="Fastfood" t="Guarana" cash="3700" gold="0" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="11" level="0" incomePerServing="3" servings="30" color="CD853F" ratingBonus="56" />
 </wodIds>
