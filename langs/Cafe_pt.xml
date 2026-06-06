@@ -241,14 +241,14 @@ Se você estocá-la, as porções existentes serão perdidas!" />
 		<text id="cookstep_chickenbiryani2" name="Temperando arroz" />
 		<text id="cookstep_cottagepotatoes1" name="Preparando batatas" />
 		<text id="cookstep_cottagepotatoes2" name="Espalhando ricota" />
-		<text id="cookstep_cuzcuzcomovo1" name="Steaming cornmeal" />
-		<text id="cookstep_cuzcuzcomovo2" name="Frying eggs" />
-		<text id="cookstep_malaichickennaan1" name="Prepping batter" />
-		<text id="cookstep_malaichickennaan2" name="Folding naan" />
-		<text id="cookstep_veganplate1" name="Cooking rice" />
-		<text id="cookstep_veganplate2" name="Spreading rice" />
-		<text id="cookstep_neapolitancake1" name="Melting ingredients" />
-		<text id="cookstep_neapolitancake2" name="Baking cake" />
+		<text id="cookstep_cuzcuzcomovo1" name="Fazendo cuzcuz" />
+		<text id="cookstep_cuzcuzcomovo2" name="Fritando ovos" />
+		<text id="cookstep_malaichickennaan1" name="Preparando a massa" />
+		<text id="cookstep_malaichickennaan2" name="Dobrando pão" />
+		<text id="cookstep_veganplate1" name="Cozinhando arroz" />
+		<text id="cookstep_veganplate2" name="Espalhando arroz" />
+		<text id="cookstep_neapolitancake1" name="Derretendo ingredientes" />
+		<text id="cookstep_neapolitancake2" name="Assando bolo" />
 		<text id="cookstep_blackforestcherrycake1" name="Misturando ingredientes" />
 		<text id="cookstep_blackforestcherrycake2" name="Assando bolo" />
 		<text id="cookstep_cheeseburger1" name="Fritando carne moída" />
@@ -491,18 +491,18 @@ Se você estocá-la, as porções existentes serão perdidas!" />
 		<text id="coop_title_31" name="FESTIVAL DO CURRY" />
 		<text id="coop_desc_short_31" name="Tem uma opção para todo mundo!" />
 		<text id="coop_desc_long_31" name="Um festival indiano local quer servir muito curry aos visitantes. Você pode ajudar?" />
-		<text id="coop_title_32" name="BRAZIL AND PORTUGAL" />
-		<text id="coop_desc_short_32" name="Shorten the distance with food!" />
-		<text id="coop_desc_long_32" name="An international event is happening but Brazilian and Portugese visitors are homesick. Make traditional food to make them happy!" />
-		<text id="coop_title_33" name="DEV&apos;S CHOICE!" />
-		<text id="coop_desc_short_33" name="Fuel for more development!" />
-		<text id="coop_desc_long_33" name="Chef Gab needs very large amounts of his favorite food to be cooked to stress test the servers! Help out!" />
-		<text id="coop_title_34" name="MOUSSE BATTLE!" />
-		<text id="coop_desc_short_34" name="Which one is the best?" />
-		<text id="coop_desc_long_34" name="Chefs all around the world are battling to see which mousse is the best. Play for all teams and see what&apos;s up!" />
-		<text id="coop_title_35" name="FAMILY FEAST" />
-		<text id="coop_desc_short_35" name="So many guests!" />
-		<text id="coop_desc_long_35" name="Your whole family, their friends, your friends and their families are ALL coming to your Café to celebrate your business. Do them proud!" />
+		<text id="coop_title_32" name="BRASIL E PORTUGAL" />
+		<text id="coop_desc_short_32" name="Diminua a saudade com comida!" />
+		<text id="coop_desc_long_32" name="Um evento internacional está acontecendo mas os visitantes do Brasil e de Portugal estão com saudades de casa. Faça comidas tradicionais!" />
+		<text id="coop_title_33" name="ESCOLHA DO DEV!" />
+		<text id="coop_desc_short_33" name="Combustível para mais desenvolvimento!" />
+		<text id="coop_desc_long_33" name="Chef Gab precisa que sua comida favorita seja feita em grande quantidade para testar os servidores! Ajude!" />
+		<text id="coop_title_34" name="BATALHA DO MOUSSE!" />
+		<text id="coop_desc_short_34" name="Qual é o melhor?" />
+		<text id="coop_desc_long_34" name="Chefs pelo mundo estão batalhando para decidir qual mousse é o melhor. Jogue de todos os lados e entenda a situação!" />
+		<text id="coop_title_35" name="BANQUETE PARA A FAMÍLIA" />
+		<text id="coop_desc_short_35" name="Todo mundo está aqui!" />
+		<text id="coop_desc_long_35" name="Sua família inteira, os amigos dela, seus amigos e as famílias deles estão TODOS indo visitar seu Café e celebrar seus negócios. Deixe-os orgulhosos!" />
 	</coopmission>
 	<dialogs>
 		<text id="dialogwin_achievement_title" name="Conquistas" />
@@ -1254,24 +1254,24 @@ Apenas disponível por tempo limitado!" />
 		<text id="preparestep_cottagepotatoes_quark" name="Fazer ricota" />
 		<text id="preparestep_cottagepotatoes_butter" name="Colocar manteiga" />
 		<text id="preparestep_cottagepotatoes_potato" name="Cozinhar batatas" />
-		<text id="preparestep_cuzcuzcomovo_sweetcorn" name="Prepare cornmeal" />
-		<text id="preparestep_cuzcuzcomovo_eggs" name="Crack eggs" />
-		<text id="preparestep_cuzcuzcomovo_butter" name="Melt butter" />
-		<text id="preparestep_malaichickennaan_chicken" name="Cut chicken" />
-		<text id="preparestep_malaichickennaan_cream" name="Whip cream" />
-		<text id="preparestep_malaichickennaan_garlic" name="Press garlic" />
-		<text id="preparestep_malaichickennaan_oil" name="Heat oil" />
-		<text id="preparestep_malaichickennaan_flour" name="Sift flour" />
-		<text id="preparestep_veganplate_carrots" name="Peel carrots" />
-		<text id="preparestep_veganplate_peas" name="Cook peas" />
-		<text id="preparestep_veganplate_cucumber" name="Slice cucumber" />
-		<text id="preparestep_veganplate_tomato" name="Cut tomatoes" />
-		<text id="preparestep_veganplate_rice" name="Cook rice" />
-		<text id="preparestep_neapolitancake_whitechocolat" name="Melt white chocolate" />
-		<text id="preparestep_neapolitancake_chocolate" name="Melt chocolate" />
-		<text id="preparestep_neapolitancake_strawberry" name="Mash strawberries" />
-		<text id="preparestep_neapolitancake_flour" name="Sift flour" />
-		<text id="preparestep_neapolitancake_milk" name="Pour milk" />
+		<text id="preparestep_cuzcuzcomovo_sweetcorn" name="Fazer flocão" />
+		<text id="preparestep_cuzcuzcomovo_eggs" name="Quebrar ovos sambando" />
+		<text id="preparestep_cuzcuzcomovo_butter" name="Derreter manteiga" />
+		<text id="preparestep_malaichickennaan_chicken" name="Cortar frango" />
+		<text id="preparestep_malaichickennaan_cream" name="Bater creme" />
+		<text id="preparestep_malaichickennaan_garlic" name="Espremer alho" />
+		<text id="preparestep_malaichickennaan_oil" name="Aquecer óleo" />
+		<text id="preparestep_malaichickennaan_flour" name="Misturar farinha" />
+		<text id="preparestep_veganplate_carrots" name="Cortar cenouras" />
+		<text id="preparestep_veganplate_peas" name="Cozinhar ervilhas" />
+		<text id="preparestep_veganplate_cucumber" name="Cortar pepino" />
+		<text id="preparestep_veganplate_tomato" name="Cortar tomate" />
+		<text id="preparestep_veganplate_rice" name="Cozinhar arroz integral" />
+		<text id="preparestep_neapolitancake_whitechocolat" name="Derreter chocolate branco" />
+		<text id="preparestep_neapolitancake_chocolate" name="Derreter chocolate" />
+		<text id="preparestep_neapolitancake_strawberry" name="Amassar morangos" />
+		<text id="preparestep_neapolitancake_flour" name="Peneirar farinha" />
+		<text id="preparestep_neapolitancake_milk" name="Despejar leite" />
 		<text id="preparestep_corncake_cinnamon" name="Moer canela" />
 		<text id="preparestep_feijoada_beans" name="Cozinhar feijões" />
 		<text id="preparestep_feijoada_bacon" name="Cortar pedaços de bacon" />
@@ -1570,10 +1570,10 @@ Apenas disponível por tempo limitado!" />
 		<text id="preparestep_bakedalaska_vanilla" name="Misturar baunilha" />
 		<text id="preparestep_butterchicken_coriander" name="Picar coentro" />
 		<text id="preparestep_chickenbiryani_coriander" name="Picar coentro" />
-		<text id="preparestep_cuzcuzcomovo_parsley" name="Chop parsley" />
-		<text id="preparestep_malaichickennaan_coriander" name="Chop coriander" />
-		<text id="preparestep_veganplate_parsley" name="Chop parsley" />
-		<text id="preparestep_neapolitancake_vanilla" name="Scrape out vanilla" />
+		<text id="preparestep_cuzcuzcomovo_parsley" name="Adicionar salsinha em algum lugar" />
+		<text id="preparestep_malaichickennaan_coriander" name="Picar coentro" />
+		<text id="preparestep_veganplate_parsley" name="Picar salsinha" />
+		<text id="preparestep_neapolitancake_vanilla" name="Fazer extrato de baunilha" />
 		<text id="preparestep_cottagepotatoes_parsley" name="Picar salsinha" />
 		<text id="preparestep_bananasplit_vanilla" name="raspar baunilha" />
 		<text id="preparestep_blackforestcherrycake_vanilla" name="Raspar baunilha" />
@@ -1687,7 +1687,7 @@ Apenas disponível por tempo limitado!" />
 		<text id="recipe_tiramisu" name="Tiramisu" />
 		<text id="recipe_pridecupcakes" name="Cupcakes LGBT" />
 		<text id="recipe_ratatouille" name="Ratatouille" />
-		<text id="recipe_hotcherryricepudding" name="Pudim de Arroz com Cerejas" />
+		<text id="recipe_hotcherryricepudding" name="Pudim de Arroz c/ Cerejas" />
 		<text id="recipe_coconutcake" name="Bolo de Coco" />
 		<text id="recipe_paodequeijo" name="Pão de Queijo" />
 		<text id="recipe_baiaodedois" name="Baião de Dois" />
@@ -1695,10 +1695,10 @@ Apenas disponível por tempo limitado!" />
 		<text id="recipe_butterchicken" name="Frango com Manteiga" />
 		<text id="recipe_chickenbiryani" name="Biryani de Frango" />
 		<text id="recipe_cottagepotatoes" name="Batatas com Ricota" />
-		<text id="recipe_cuzcuzcomovo" name="Couscous with Egg" />
-		<text id="recipe_malaichickennaan" name="Malai Chicken Naan" />
-		<text id="recipe_veganplate" name="Vegan Plate" />
-		<text id="recipe_neapolitancake" name="Neapolitan Cake" />
+		<text id="recipe_cuzcuzcomovo" name="Cuzcuz com Ovo" />
+		<text id="recipe_malaichickennaan" name="Frango com Pão Indiano" />
+		<text id="recipe_veganplate" name="Prato Vegano" />
+		<text id="recipe_neapolitancake" name="Bolo Napolitano" />
 		<text id="recipe_beefstew" name="Carne Ensopada" />
 		<text id="recipe_blackforestcherrycake" name="Bolo Floresta Negra" />
 		<text id="recipe_cheeseburger" name="X-Burger" />
