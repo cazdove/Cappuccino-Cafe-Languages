@@ -515,7 +515,7 @@
 		<text id="coop_desc_short_37" name="The cheese rules all!" />
 		<text id="coop_desc_long_37" name="Chef Cupcakekittycat8 was hired to provide dishes for the birthday of a famous Mouse. Sadly, she used tofu instead of cheese and the mice are furious! Can you make food with cheese to help?" />
 		<text id="coop_title_38" name="BURGER FESTIVAL" />
-		<text id="coop_desc_short_38" name="A classic taste for a gathering1" />
+		<text id="coop_desc_short_38" name="A classic taste for a gathering!" />
 		<text id="coop_desc_long_38" name="Chef Franskmayn is going to serve burgers at the Marketplace. Provide some portions to get a share of the revenue!" />
 		<text id="coop_title_39" name="SWEET LIKE A STRAWBERRY!" />
 		<text id="coop_desc_short_39" name="A bountiful harvest!" />
@@ -860,14 +860,14 @@
 		<text id="joincafe_errorcode_21" name="你已經在你的咖啡館裡了!" />
 		<text id="joincafe_errorcode_22" name="咖啡館已不存在!" />
 		<text id="level_error" name="咖啡館出現錯誤.請通知技術支援部門." />
-		<text id="level_errorcode_1" name="你的咖啡館無法開啟.請與Goodgame技術支援部門聯繫." />
+		<text id="level_errorcode_1" name="你的咖啡館無法開啟.請與Cappuccino技術支援部門聯繫." />
 		<text id="login_error" name="注意!" />
 		<text id="login_errorcode_1" name="錯誤" />
 		<text id="login_errorcode_12" name="使用者已登入" />
 		<text id="login_errorcode_13" name="使用者已登入" />
 		<text id="login_errorcode_14" name="使用者名稱或密碼錯誤!" />
 		<text id="login_errorcode_15" name="你已經登入了" />
-		<text id="login_errorcode_16" name="你的圖片顯示有問題.請聯絡Goodgame技術支援部門." />
+		<text id="login_errorcode_16" name="你的圖片顯示有問題.請聯絡Cappuccino技術支援部門." />
 		<text id="login_errorcode_wronglogin" name="使用者名稱或密碼錯誤!" />
 		<text id="lostpassword_error" name="注意!" />
 		<text id="lostpassword_errorcode_1" name="錯誤" />
@@ -966,8 +966,8 @@
 		<text id="limitedfeatureDialog_title" name="小心!" />
 	</feature>
 	<feeds>
-		<text id="descriptionfeedcafe" name="我已經加入Goodgame Café的行列囉!你也想開間自己的咖啡館烹調美味的菜餚嗎?快來看看吧!" />
-		<text id="descriptionlongcafe" name="Goodgame Café 是由Goodgame Studio遊戲製作團隊所策劃的一款嶄新線上遊戲。開間屬於自己的咖啡館，用你的絕妙好廚藝讓絡繹不絕的顧客欲罷不能!你可以自行決定菜單，爲每道菜餚採買新鮮的食材，雇用你的朋友們當服務生，一起將你的咖啡館變成城裡最夯的聚會地點!" />
+		<text id="descriptionfeedcafe" name="我已經加入Cappuccino Café的行列囉!你也想開間自己的咖啡館烹調美味的菜餚嗎?快來看看吧!" />
+		<text id="descriptionlongcafe" name="Cappuccino Café 是由Cappuccino Studio遊戲製作團隊所策劃的一款嶄新線上遊戲。開間屬於自己的咖啡館，用你的絕妙好廚藝讓絡繹不絕的顧客欲罷不能!你可以自行決定菜單，爲每道菜餚採買新鮮的食材，雇用你的朋友們當服務生，一起將你的咖啡館變成城裡最夯的聚會地點!" />
 	</feeds>
 	<ingame_tooltips>
 		<text id="fridgetooltip_line1" name="冰箱" />
@@ -1808,14 +1808,14 @@
 	</recipes_fastfood>
 	<server>
 		<mail>
-			<text id="mail_invite_friend" name="Hi %s!&lt;br /&gt;&lt;br /&gt;我發現了一個很棒的線上遊戲&quot;Goodgame Café&quot;!&lt;br /&gt;&lt;br /&gt;由此連結可直接進入遊戲:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;由連結網址進入免費註冊,在&quot;Goodgame Café&quot;免費打造個人專屬的咖啡館.&lt;br /&gt;&lt;br /&gt;看看如何擁有你自己的咖啡館. 烹煮美味的餐點,款待你的顧客,依照個人喜好佈置美化你的咖啡館!&lt;br /&gt;&lt;br /&gt;祝你玩的愉快!獻上誠摯的問候, %s" />
-			<text id="mail_lost_pw" name="哈囉%s!&lt;br /&gt;&lt;br /&gt;你收到此封郵件,因為你要求一個新的密碼.&lt;br /&gt;你的密碼如下:%s&lt;br /&gt;&lt;br /&gt; 從下列網址直接進入遊戲:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;問題及疑難請以此電子郵件與我們聯繫 support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;我們衷心希望你會從遊戲中得到更多樂趣!&lt;br /&gt;&lt;br /&gt;你的Goodgamestudios.com服務團隊" />
-			<text id="mail_registration" name="哈囉,&lt;br /&gt;&lt;br /&gt;非常感謝你的加入,歡迎來到&quot;Goodgame Café&quot;.
+			<text id="mail_invite_friend" name="Hi %s!&lt;br /&gt;&lt;br /&gt;我發現了一個很棒的線上遊戲&quot;Cappuccino Café&quot;!&lt;br /&gt;&lt;br /&gt;由此連結可直接進入遊戲:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;由連結網址進入免費註冊,在&quot;Cappuccino Café&quot;免費打造個人專屬的咖啡館.&lt;br /&gt;&lt;br /&gt;看看如何擁有你自己的咖啡館. 烹煮美味的餐點,款待你的顧客,依照個人喜好佈置美化你的咖啡館!&lt;br /&gt;&lt;br /&gt;祝你玩的愉快!獻上誠摯的問候, %s" />
+			<text id="mail_lost_pw" name="哈囉%s!&lt;br /&gt;&lt;br /&gt;你收到此封郵件,因為你要求一個新的密碼.&lt;br /&gt;你的密碼如下:%s&lt;br /&gt;&lt;br /&gt; 從下列網址直接進入遊戲:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;問題及疑難請以此電子郵件與我們聯繫 support@Cappuccinostudios.com&lt;br /&gt;&lt;br /&gt;我們衷心希望你會從遊戲中得到更多樂趣!&lt;br /&gt;&lt;br /&gt;你的Cappuccinostudios.com服務團隊" />
+			<text id="mail_registration" name="哈囉,&lt;br /&gt;&lt;br /&gt;非常感謝你的加入,歡迎來到&quot;Cappuccino Café&quot;.
 &lt;br /&gt;&lt;br /&gt;你可以隨時以下列資料登入:&lt;br /&gt;
 電子郵件: %s&lt;br /&gt;
 密碼: %s&lt;br /&gt;&lt;br /&gt; 
 
-&lt;br /&gt;&lt;br /&gt;由此網址可直接進入遊戲:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;問題及疑難請以此電子郵件地址與我們聯繫support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;我們衷心希望你會從遊戲中得到很多樂趣!&lt;br /&gt;&lt;br /&gt;你的Goodgamestudios.com服務團隊" />
+&lt;br /&gt;&lt;br /&gt;由此網址可直接進入遊戲:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;問題及疑難請以此電子郵件地址與我們聯繫support@Cappuccinostudios.com&lt;br /&gt;&lt;br /&gt;我們衷心希望你會從遊戲中得到很多樂趣!&lt;br /&gt;&lt;br /&gt;你的Cappuccinostudios.com服務團隊" />
 		</mail>
 		<misc>
 			<text id="marketplace" name="廣場" />

@@ -512,7 +512,7 @@
 		<text id="coop_desc_short_37" name="The cheese rules all!" />
 		<text id="coop_desc_long_37" name="Chef Cupcakekittycat8 was hired to provide dishes for the birthday of a famous Mouse. Sadly, she used tofu instead of cheese and the mice are furious! Can you make food with cheese to help?" />
 		<text id="coop_title_38" name="BURGER FESTIVAL" />
-		<text id="coop_desc_short_38" name="A classic taste for a gathering1" />
+		<text id="coop_desc_short_38" name="A classic taste for a gathering!" />
 		<text id="coop_desc_long_38" name="Chef Franskmayn is going to serve burgers at the Marketplace. Provide some portions to get a share of the revenue!" />
 		<text id="coop_title_39" name="SWEET LIKE A STRAWBERRY!" />
 		<text id="coop_desc_short_39" name="A bountiful harvest!" />
@@ -851,15 +851,15 @@
 		<text id="joincafe_errorcode_20" name="Yksityistilaisuus! Ei tilaa jäljellä." />
 		<text id="joincafe_errorcode_21" name="Olet jo tässä kahvilassa!" />
 		<text id="joincafe_errorcode_22" name="Tämä kahvila ei enää ole olemassa!" />
-		<text id="level_error" name="Café on viallinen. Ole hyvä ja ota yhteyttä Goodgame Studios -tukeen." />
-		<text id="level_errorcode_1" name="Kahvilaasi ei voida avata. Ole hyvä ja ota yhteyttä Goodgame Studios tukeen." />
+		<text id="level_error" name="Café on viallinen. Ole hyvä ja ota yhteyttä Cappuccino -tukeen." />
+		<text id="level_errorcode_1" name="Kahvilaasi ei voida avata. Ole hyvä ja ota yhteyttä Cappuccino tukeen." />
 		<text id="login_error" name="Huomio!" />
 		<text id="login_errorcode_1" name="Virhe" />
 		<text id="login_errorcode_12" name="Käyttäjä on jo rekisteröitynyt." />
 		<text id="login_errorcode_13" name="Käyttäjä on jo rekisteröitynyt." />
 		<text id="login_errorcode_14" name="Käyttäjänimi tai salasana on väärin!" />
 		<text id="login_errorcode_15" name="Olet kirjautuneena sisään." />
-		<text id="login_errorcode_16" name="Avattaresi on viallinen. Ole hyvä ja ota yhteyttä Goodgames Studios tukeen." />
+		<text id="login_errorcode_16" name="Avattaresi on viallinen. Ole hyvä ja ota yhteyttä Cappuccinos Studios tukeen." />
 		<text id="login_errorcode_wronglogin" name="Käyttäjänimi tai salasana on väärä!" />
 		<text id="lostpassword_error" name="Huomio!" />
 		<text id="lostpassword_errorcode_1" name="Virhe" />
@@ -957,8 +957,8 @@
 		<text id="limitedfeatureDialog_title" name="HUOMIO!" />
 	</feature>
 	<feeds>
-		<text id="descriptionfeedcafe" name="Asensin juuri Goodgame Café -pelin. Haluaisitko sinäkin avata oman kahvilasi ja valmistaa herkullisia aterioita? Tule katsomaan!" />
-		<text id="descriptionlongcafe" name="Goodgame Café on aivan uusi peli Goodgame Studioilta. Avaa oma kahvilasi ja yllätä asiakkaasi ruoanlaittotaidoillasi. Palkkaa ystäviäsi töihin ja osta ruoka-aineita. Päätä millainen on tämän päivän menu ja kasvata bisnestäsi. Sinun kahvilastasi tulee kaupungin suosituin kohtaamispaikka!" />
+		<text id="descriptionfeedcafe" name="Asensin juuri Cappuccino Café -pelin. Haluaisitko sinäkin avata oman kahvilasi ja valmistaa herkullisia aterioita? Tule katsomaan!" />
+		<text id="descriptionlongcafe" name="Cappuccino Café on aivan uusi peli Cappuccino Studioilta. Avaa oma kahvilasi ja yllätä asiakkaasi ruoanlaittotaidoillasi. Palkkaa ystäviäsi töihin ja osta ruoka-aineita. Päätä millainen on tämän päivän menu ja kasvata bisnestäsi. Sinun kahvilastasi tulee kaupungin suosituin kohtaamispaikka!" />
 	</feeds>
 	<ingame_tooltips>
 		<text id="fridgetooltip_line1" name="Jääkaappi" />
@@ -1800,9 +1800,9 @@
 	</recipes_fastfood>
 	<server>
 		<mail>
-			<text id="mail_invite_friend" name="Hei %s!&lt;br /&gt;&lt;br /&gt;Löysin juuri tämän upean online-pelin &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;Tämän linkin kautta pääset suoraan peliin:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Rekisteröidy ilmaiseksi linkin kautta, jotta voit luoda oman kahvilasi pelissä &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt; Saat tietää millaista on pitää omaa kahvilaa. Hoidat omaa bisnestäsi, teet upeita annoksia ja näet kuinka asiakkaat lähtevät tyytyväisinä kahvilastasi. &lt;br /&gt;&lt;br /&gt;Nauti pelistä! Parhain terveisin, %s" />
-			<text id="mail_lost_pw" name="Hei %s!&lt;br /&gt;&lt;br /&gt;Saat tämän automaattisen sähköpostin, koska olet pyytänyt uutta salasanaa.&lt;br /&gt;Salasanasi on: %s&lt;br /&gt;&lt;br /&gt;Tämän linkin kautta pääset suoraan peliin:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Jos sinulla on kysyttävää tai ongelmia, ole hyvä ja lähetä sähköpostia tähän osoitteeseen: support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;Toivomme, että pidät edelleen hauskaa pelimme parissa!&lt;br /&gt;&lt;br /&gt;Tiimisi&lt;br /&gt;Goodgamestudios.com" />
-			<text id="mail_registration" name="Hei,&lt;br /&gt;&lt;br /&gt;kiitos rekisteröitymisestäsi ja tervetuloa pelaamaan peliä &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;Voit kirjautua sisään mihin aikaan tahansa antamalla seuraavat tiedot:&lt;br /&gt;Sähköpostiosoite: %s&lt;br /&gt;Salasana: %s&lt;br /&gt;&lt;br /&gt;Tämän linkin kautta pääset suoraan peliin:&lt;br/&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Jos sinulla on kysyttävää tai ongelmia, ole hyvä ja lähetä sähköpostia tähän osoitteeseen: support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt; Toivomme, että nautit pelistä Goodgame Café!&lt;br /&gt;&lt;br /&gt;Tiimisi&lt;br /&gt;Goodgamestudios.com" />
+			<text id="mail_invite_friend" name="Hei %s!&lt;br /&gt;&lt;br /&gt;Löysin juuri tämän upean online-pelin &quot;Cappuccino Café&quot;.&lt;br /&gt;&lt;br /&gt;Tämän linkin kautta pääset suoraan peliin:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Rekisteröidy ilmaiseksi linkin kautta, jotta voit luoda oman kahvilasi pelissä &quot;Cappuccino Café&quot;.&lt;br /&gt;&lt;br /&gt; Saat tietää millaista on pitää omaa kahvilaa. Hoidat omaa bisnestäsi, teet upeita annoksia ja näet kuinka asiakkaat lähtevät tyytyväisinä kahvilastasi. &lt;br /&gt;&lt;br /&gt;Nauti pelistä! Parhain terveisin, %s" />
+			<text id="mail_lost_pw" name="Hei %s!&lt;br /&gt;&lt;br /&gt;Saat tämän automaattisen sähköpostin, koska olet pyytänyt uutta salasanaa.&lt;br /&gt;Salasanasi on: %s&lt;br /&gt;&lt;br /&gt;Tämän linkin kautta pääset suoraan peliin:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Jos sinulla on kysyttävää tai ongelmia, ole hyvä ja lähetä sähköpostia tähän osoitteeseen: support@Cappuccinostudios.com&lt;br /&gt;&lt;br /&gt;Toivomme, että pidät edelleen hauskaa pelimme parissa!&lt;br /&gt;&lt;br /&gt;Tiimisi&lt;br /&gt;Cappuccinostudios.com" />
+			<text id="mail_registration" name="Hei,&lt;br /&gt;&lt;br /&gt;kiitos rekisteröitymisestäsi ja tervetuloa pelaamaan peliä &quot;Cappuccino Café&quot;.&lt;br /&gt;&lt;br /&gt;Voit kirjautua sisään mihin aikaan tahansa antamalla seuraavat tiedot:&lt;br /&gt;Sähköpostiosoite: %s&lt;br /&gt;Salasana: %s&lt;br /&gt;&lt;br /&gt;Tämän linkin kautta pääset suoraan peliin:&lt;br/&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Jos sinulla on kysyttävää tai ongelmia, ole hyvä ja lähetä sähköpostia tähän osoitteeseen: support@Cappuccinostudios.com&lt;br /&gt;&lt;br /&gt; Toivomme, että nautit pelistä Cappuccino Café!&lt;br /&gt;&lt;br /&gt;Tiimisi&lt;br /&gt;Cappuccinostudios.com" />
 		</mail>
 		<misc>
 			<text id="marketplace" name="Tori" />
@@ -2002,7 +2002,7 @@
 			<text id="generic_alert_win7chromebug" name="" />
 			<text id="generic_invalid_email_provider" name="Tämän hankkijan sähköpostiosoite ei ole sallittu!" />
 			<text id="generic_js_alert_firstsessiontracking_loading" name="Internet-yhteytesi vaikuttaa hitaalta tällä hetkellä. Ole hyvä ja yritä myöhemmin uudelleen!" />
-			<text id="generic_js_alert_firstsessiontracking_registered" name="Mitä pidät pelistämme? Mitä voisimme vielä parantaa? Ole hyvä ja kirjoita mielipiteesi Goodgame forumiin tai ryhmään." />
+			<text id="generic_js_alert_firstsessiontracking_registered" name="Mitä pidät pelistämme? Mitä voisimme vielä parantaa? Ole hyvä ja kirjoita mielipiteesi Cappuccino forumiin tai ryhmään." />
 			<text id="generic_js_alert_firstsessiontracking_unregistered" name="Huomio: Kehityksesi tallennetaan vain kun olet rekisteröitynyt!" />
 			<text id="generic_register_error_invalidemail" name="Annettu sähköpostiosoite ei ole oikea." />
 			<text id="generic_report_muted_chattry" name="Et voi käyttää chat-toimintoa, koska se on poistettu väliaikaisesti." />
@@ -2051,7 +2051,7 @@
 			<text id="generic_friend" name="Ystävä" />
 			<text id="generic_friends" name="Ystävät" />
 			<text id="generic_general" name="Yleisasetukset" />
-			<text id="generic_ggs" name="Goodgame Studios" />
+			<text id="generic_ggs" name="Cappuccino" />
 			<text id="generic_group" name="Ryhmä" />
 			<text id="generic_guest" name="Vieras" />
 			<text id="generic_help" name="Apu" />

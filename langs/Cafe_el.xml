@@ -521,7 +521,7 @@
 		<text id="coop_desc_short_37" name="The cheese rules all!" />
 		<text id="coop_desc_long_37" name="Chef Cupcakekittycat8 was hired to provide dishes for the birthday of a famous Mouse. Sadly, she used tofu instead of cheese and the mice are furious! Can you make food with cheese to help?" />
 		<text id="coop_title_38" name="BURGER FESTIVAL" />
-		<text id="coop_desc_short_38" name="A classic taste for a gathering1" />
+		<text id="coop_desc_short_38" name="A classic taste for a gathering!" />
 		<text id="coop_desc_long_38" name="Chef Franskmayn is going to serve burgers at the Marketplace. Provide some portions to get a share of the revenue!" />
 		<text id="coop_title_39" name="SWEET LIKE A STRAWBERRY!" />
 		<text id="coop_desc_short_39" name="A bountiful harvest!" />
@@ -883,15 +883,15 @@
 		<text id="joincafe_errorcode_20" name="Ιδιωτικό πάρτυ!Δεν υπάρχει ελεύθερος χώρος για περισσότερο." />
 		<text id="joincafe_errorcode_21" name="Ήδη επισκέφτεσαι αυτό το καφέ" />
 		<text id="joincafe_errorcode_22" name="Αυτό το καφέ δεν υπάρχει!" />
-		<text id="level_error" name="Το Καφέ έχει πρόβλημα. Παρακαλώ επικοινώνησε με την ομάδα υποστήριξης των Goodgame Studios." />
-		<text id="level_errorcode_1" name="Το καφέ σου δε μπορεί ν&amp;#039;ανοίξει. Παρακαλούμε επικοινώνησε με την ομάδα υποστήριξης της Goodgame Studios." />
+		<text id="level_error" name="Το Καφέ έχει πρόβλημα. Παρακαλώ επικοινώνησε με την ομάδα υποστήριξης των Cappuccino." />
+		<text id="level_errorcode_1" name="Το καφέ σου δε μπορεί ν&amp;#039;ανοίξει. Παρακαλούμε επικοινώνησε με την ομάδα υποστήριξης της Cappuccino." />
 		<text id="login_error" name="Πρόσεχε!" />
 		<text id="login_errorcode_1" name="Σφάλμα" />
 		<text id="login_errorcode_12" name="Ο χρήστης ήδη έχει εγγραφεί." />
 		<text id="login_errorcode_13" name="Ο χρήστης ήδη έχει εγγραφεί." />
 		<text id="login_errorcode_14" name="Το όνομα χρήστη ή ο κωδικός είναι λάθος!" />
 		<text id="login_errorcode_15" name="Έχεις συνδεθεί." />
-		<text id="login_errorcode_16" name="Η εικόνα σου έχει σφάλμα. Παρακαλούμε επικοινώνησε με την ομάδα υποστήριξης της Goodgame Studios." />
+		<text id="login_errorcode_16" name="Η εικόνα σου έχει σφάλμα. Παρακαλούμε επικοινώνησε με την ομάδα υποστήριξης της Cappuccino." />
 		<text id="login_errorcode_wronglogin" name="Το όνομα χρήστη ή ο κωδικός είναι λάθος!" />
 		<text id="lostpassword_error" name="Πρόσεχε!" />
 		<text id="lostpassword_errorcode_1" name="Σφάλμα" />
@@ -1003,8 +1003,8 @@
 		<text id="limitedfeatureDialog_title" name="ΠΡΟΣΕΧΕ!" />
 	</feature>
 	<feeds>
-		<text id="descriptionfeedcafe" name="Μόλις έκανα εγκατάσταση το Καφέ Goodgame. Θα ήθελες και εσύ να ανοίξεις το δικό σου καφέ και να ετοιμάσεις νόστιμα γεύματα? Τότε έλα και ρίξε μια ματιά!" />
-		<text id="descriptionlongcafe" name="Το Καφέ Goodgame είναι ο καινούριος τίτλος από τη Goodgame Studios. Άνοιξε το δικό σου καφέ και εντυπωσίασε τους πελάτες σου με τις μαγειρικές σου ικανότητες. Μίσθωσε τους φίλους σου και ψώνισε για συστατικά τώρα! Αποφάσισε τι θα περιλαμβάνει το μενού της ημέρας και ανέπτυξε την επιχείρησή σου. Το καφέ σου θα είναι το πιο δημοφιλές σημείο συνάντησης της πόλης!" />
+		<text id="descriptionfeedcafe" name="Μόλις έκανα εγκατάσταση το Καφέ Cappuccino. Θα ήθελες και εσύ να ανοίξεις το δικό σου καφέ και να ετοιμάσεις νόστιμα γεύματα? Τότε έλα και ρίξε μια ματιά!" />
+		<text id="descriptionlongcafe" name="Το Καφέ Cappuccino είναι ο καινούριος τίτλος από τη Cappuccino. Άνοιξε το δικό σου καφέ και εντυπωσίασε τους πελάτες σου με τις μαγειρικές σου ικανότητες. Μίσθωσε τους φίλους σου και ψώνισε για συστατικά τώρα! Αποφάσισε τι θα περιλαμβάνει το μενού της ημέρας και ανέπτυξε την επιχείρησή σου. Το καφέ σου θα είναι το πιο δημοφιλές σημείο συνάντησης της πόλης!" />
 	</feeds>
 	<ingame_tooltips>
 		<text id="fridgetooltip_line1" name="Ψυγείο" />
@@ -1845,9 +1845,9 @@
 	</recipes_fastfood>
 	<server>
 		<mail>
-			<text id="mail_invite_friend" name="Γειά σου %s!&lt;br /&gt;&lt;br /&gt;Μόλις ανακάλυψα αυτό το σπουδαίο online παιχνίδι &quot;Καφέ Goodgame&quot;.&lt;br /&gt;&lt;br /&gt;Αυτός ο σύνδεσμος σε πηγαίνει κατευθείαν στο παιχνίδι:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Κάνε εγγραφή με αυτό το σύνδεσμο δωρεάν, για να δημιουργήσεις το δικό σου καφέ στο &quot;Καφέ Goodgame&quot;.&lt;br /&gt;&lt;br /&gt;Μάθε πως είναι να έχεις το δικό σου καφέ.Κάνε τη δική σου επιχείρηση, μαγείρεψε σπουδαία γεύματα και δες ευτυχισμένους πελάτες να φεύγουν από το καφέ σου.&lt;br /&gt;&lt;br /&gt;Απόλαυσε το παιχνίδι και τους καλύτερους χαιρετισμούς,  %s" />
-			<text id="mail_lost_pw" name="Γεια σου %s!&lt;br /&gt;&lt;br /&gt;Λαμβάνεις αυτό το e-mail αυτόματα επειδή ζήτησες ένα νέο κωδικό.&lt;br /&gt;Ο κωδικός είναι:%s&lt;br /&gt;&lt;br /&gt;Αυτός ο σύνδεσμος σε πηγαίνει απευθείας στο παιχνίδι:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Αν έχεις ερωτήσεις ή προβλήματα παρακαλούμε γράψε ένα e-mail στη support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;Ελπίζουμε ότι θα συνεχίσεις να διασκεδάζεις με το παιχνίδι μας!&lt;br /&gt;&lt;br /&gt;Η ομάδα σου στη &lt;br /&gt;Goodgamestudios.com" />
-			<text id="mail_registration" name="Γειά σου,&lt;br /&gt;&lt;br /&gt;ευχαριστούμε για την εγγραφή σου και καλώς ήρθες στο &quot;Καφέ Goodgame&quot;.&lt;br /&gt;&lt;br /&gt;Μπορείς να συνδεθείς οποιαδήποτε στιγμή με τα ακόλουθα στοιχεία: &lt;br /&gt;E-Mail: %s&lt;br /&gt;Κωδικός: %s&lt;br /&gt;&lt;br /&gt;Αυτός ο σύνδεσμος σε πηγαίνει απευθείας στο παιχνίδι:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Αν έχεις ερωτήσεις ή προβλήματα παρακαλούμε γράψε ένα e-mail στην support@goodgamestudios.com&lt;br /&gt;&lt;br /Ελπίζουμε ότι θα ευχαριστήθείς το Καφέ Goodgame!&lt;br /&gt;&lt;br /&gt;Η ομάδα σας στη&lt;br /&gt;Goodgamestudios.com" />
+			<text id="mail_invite_friend" name="Γειά σου %s!&lt;br /&gt;&lt;br /&gt;Μόλις ανακάλυψα αυτό το σπουδαίο online παιχνίδι &quot;Καφέ Cappuccino&quot;.&lt;br /&gt;&lt;br /&gt;Αυτός ο σύνδεσμος σε πηγαίνει κατευθείαν στο παιχνίδι:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Κάνε εγγραφή με αυτό το σύνδεσμο δωρεάν, για να δημιουργήσεις το δικό σου καφέ στο &quot;Καφέ Cappuccino&quot;.&lt;br /&gt;&lt;br /&gt;Μάθε πως είναι να έχεις το δικό σου καφέ.Κάνε τη δική σου επιχείρηση, μαγείρεψε σπουδαία γεύματα και δες ευτυχισμένους πελάτες να φεύγουν από το καφέ σου.&lt;br /&gt;&lt;br /&gt;Απόλαυσε το παιχνίδι και τους καλύτερους χαιρετισμούς,  %s" />
+			<text id="mail_lost_pw" name="Γεια σου %s!&lt;br /&gt;&lt;br /&gt;Λαμβάνεις αυτό το e-mail αυτόματα επειδή ζήτησες ένα νέο κωδικό.&lt;br /&gt;Ο κωδικός είναι:%s&lt;br /&gt;&lt;br /&gt;Αυτός ο σύνδεσμος σε πηγαίνει απευθείας στο παιχνίδι:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Αν έχεις ερωτήσεις ή προβλήματα παρακαλούμε γράψε ένα e-mail στη support@Cappuccinostudios.com&lt;br /&gt;&lt;br /&gt;Ελπίζουμε ότι θα συνεχίσεις να διασκεδάζεις με το παιχνίδι μας!&lt;br /&gt;&lt;br /&gt;Η ομάδα σου στη &lt;br /&gt;Cappuccinostudios.com" />
+			<text id="mail_registration" name="Γειά σου,&lt;br /&gt;&lt;br /&gt;ευχαριστούμε για την εγγραφή σου και καλώς ήρθες στο &quot;Καφέ Cappuccino&quot;.&lt;br /&gt;&lt;br /&gt;Μπορείς να συνδεθείς οποιαδήποτε στιγμή με τα ακόλουθα στοιχεία: &lt;br /&gt;E-Mail: %s&lt;br /&gt;Κωδικός: %s&lt;br /&gt;&lt;br /&gt;Αυτός ο σύνδεσμος σε πηγαίνει απευθείας στο παιχνίδι:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Αν έχεις ερωτήσεις ή προβλήματα παρακαλούμε γράψε ένα e-mail στην support@Cappuccinostudios.com&lt;br /&gt;&lt;br /Ελπίζουμε ότι θα ευχαριστήθείς το Καφέ Cappuccino!&lt;br /&gt;&lt;br /&gt;Η ομάδα σας στη&lt;br /&gt;Cappuccinostudios.com" />
 		</mail>
 		<misc>
 			<text id="marketplace" name="Αγορά" />
@@ -2059,7 +2059,7 @@
 			<text id="generic_alert_win7chromebug" name="" />
 			<text id="generic_invalid_email_provider" name="Δεν επιτρέπονται διευθύνσεις e-mail από αυτόν τον προμηθευτή!" />
 			<text id="generic_js_alert_firstsessiontracking_loading" name="Η ταχύτητα της σύνδεσής σας δείχνει να είναι πολύ αργή αυτή τη στιγμή. Παρακαλώ δοκιμάστε αργότερα!" />
-			<text id="generic_js_alert_firstsessiontracking_registered" name="Πώς σας φαίνεται το παιχνίδι και τι μπορεί ακόμα να βελτιωθεί; Παρακαλώ, γράψτε τη γνώμη σας στο Goodgame Φόρουμ ή στην Ομάδα." />
+			<text id="generic_js_alert_firstsessiontracking_registered" name="Πώς σας φαίνεται το παιχνίδι και τι μπορεί ακόμα να βελτιωθεί; Παρακαλώ, γράψτε τη γνώμη σας στο Cappuccino Φόρουμ ή στην Ομάδα." />
 			<text id="generic_js_alert_firstsessiontracking_unregistered" name="Προσοχή: Η πρόοδός σου αποθηκεύεται μόνο αν εγγραφείς!" />
 			<text id="generic_register_error_invalidemail" name="Η διεύθυνση e-mail που έβαλες δεν είναι σωστή." />
 			<text id="generic_report_muted_chattry" name="Δε μπορείς να χρησιμοποιήσεις την υπηρεσία του chat γιατί έχεις αποκλειστεί." />
@@ -2108,7 +2108,7 @@
 			<text id="generic_friend" name="Φίλος" />
 			<text id="generic_friends" name="Φίλοι" />
 			<text id="generic_general" name="Γενικά" />
-			<text id="generic_ggs" name="Goodgame Studios" />
+			<text id="generic_ggs" name="Cappuccino" />
 			<text id="generic_group" name="Ομάδα" />
 			<text id="generic_guest" name="Επισκέπτης" />
 			<text id="generic_help" name="Βοήθεια" />

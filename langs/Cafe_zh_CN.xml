@@ -515,7 +515,7 @@
 		<text id="coop_desc_short_37" name="The cheese rules all!" />
 		<text id="coop_desc_long_37" name="Chef Cupcakekittycat8 was hired to provide dishes for the birthday of a famous Mouse. Sadly, she used tofu instead of cheese and the mice are furious! Can you make food with cheese to help?" />
 		<text id="coop_title_38" name="BURGER FESTIVAL" />
-		<text id="coop_desc_short_38" name="A classic taste for a gathering1" />
+		<text id="coop_desc_short_38" name="A classic taste for a gathering!" />
 		<text id="coop_desc_long_38" name="Chef Franskmayn is going to serve burgers at the Marketplace. Provide some portions to get a share of the revenue!" />
 		<text id="coop_title_39" name="SWEET LIKE A STRAWBERRY!" />
 		<text id="coop_desc_short_39" name="A bountiful harvest!" />
@@ -871,15 +871,15 @@
 		<text id="joincafe_errorcode_20" name="私人派对！已经没有更多空间了！" />
 		<text id="joincafe_errorcode_21" name="您已经来到了这个咖啡馆！" />
 		<text id="joincafe_errorcode_22" name="此咖啡馆不存在！" />
-		<text id="level_error" name="您的咖啡馆出现错误。请联系Goodgame技术支持团队" />
-		<text id="level_errorcode_1" name="您的餐厅无法开业。请您联系Goodgame技术支持团队。" />
+		<text id="level_error" name="您的咖啡馆出现错误。请联系Cappuccino技术支持团队" />
+		<text id="level_errorcode_1" name="您的餐厅无法开业。请您联系Cappuccino技术支持团队。" />
 		<text id="login_error" name="注意!" />
 		<text id="login_errorcode_1" name="错误" />
 		<text id="login_errorcode_12" name="注册名已被使用。" />
 		<text id="login_errorcode_13" name="注册名已被使用。" />
 		<text id="login_errorcode_14" name="用户名或密码出错！" />
 		<text id="login_errorcode_15" name="您已登录。" />
-		<text id="login_errorcode_16" name="您的头像出错。请联系Goodgame工作室技术支持团队。" />
+		<text id="login_errorcode_16" name="您的头像出错。请联系Cappuccino工作室技术支持团队。" />
 		<text id="login_errorcode_wronglogin" name="输入名字/密码时出错！" />
 		<text id="lostpassword_error" name="注意！" />
 		<text id="lostpassword_errorcode_1" name="错误" />
@@ -987,8 +987,8 @@
 		<text id="limitedfeatureDialog_title" name="注意！" />
 	</feature>
 	<feeds>
-		<text id="descriptionfeedcafe" name="我刚安装完Goodgame咖啡馆。你也想拥有一家自己的咖啡馆并且亲自烹饪美味的菜肴么？快过来瞧瞧吧！" />
-		<text id="descriptionlongcafe" name="Goodgame咖啡馆是Goodgame工作室设计的新游戏。开一家自己的咖啡馆，让客人们尝尝你的手艺。马上雇佣你的好友，开始购买食物原料！创造属于你自己的菜单。你的咖啡馆将会成为市里最受欢迎的会面地点！" />
+		<text id="descriptionfeedcafe" name="我刚安装完Cappuccino咖啡馆。你也想拥有一家自己的咖啡馆并且亲自烹饪美味的菜肴么？快过来瞧瞧吧！" />
+		<text id="descriptionlongcafe" name="Cappuccino咖啡馆是Cappuccino工作室设计的新游戏。开一家自己的咖啡馆，让客人们尝尝你的手艺。马上雇佣你的好友，开始购买食物原料！创造属于你自己的菜单。你的咖啡馆将会成为市里最受欢迎的会面地点！" />
 	</feeds>
 	<ingame_tooltips>
 		<text id="fridgetooltip_line1" name="冰箱" />
@@ -1829,9 +1829,9 @@
 	</recipes_fastfood>
 	<server>
 		<mail>
-			<text id="mail_invite_friend" name="您好 %s!&lt;br /&gt;&lt;br /&gt;我刚发现一款非常好玩的在线游戏\&quot;Goodgame 咖啡厅\&quot;.&lt;br /&gt;&lt;br /&gt;点击此链接直接进入游戏:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;马上免费注册\&quot;Goodgame 咖啡厅\&quot;账号&lt;br /&gt;&lt;br /&gt; 分享您的美食，拥有自己的顾客群，感受一下自己开咖啡厅的乐趣！&lt;br /&gt;&lt;br /&gt;祝您有一个愉快的游戏旅程， %s" />
-			<text id="mail_lost_pw" name="您好 %s!&lt;br /&gt;&lt;br /&gt;我们收到了您找回密码的申请 &lt;br /&gt;您的密码是: %s&lt;br /&gt;&lt;br /&gt;单击这里马上开始游戏:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;如有其它问题，请email联系 support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;祝您玩的愉快!&lt;br /&gt;&lt;br /&gt;您的&lt;br /&gt;Goodgamestudios.com 团队" />
-			<text id="mail_registration" name="您好,&lt;br /&gt;&lt;br /&gt;感谢您注册&quot;Goodgame 咖啡厅&quot;。&lt;br /&gt;&lt;br /&gt;您能随时用以下信息登陆游戏:&lt;br /&gt;电子邮件: %s&lt;br /&gt;密码: %s&lt;br /&gt;&lt;br /&gt;单击这里为马上开始游戏:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;如有问题请直接email联系 support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;祝您玩的愉快!&lt;br /&gt;&lt;br /&gt;您的&lt;br /&gt;Goodgamestudios.com 团队" />
+			<text id="mail_invite_friend" name="您好 %s!&lt;br /&gt;&lt;br /&gt;我刚发现一款非常好玩的在线游戏\&quot;Cappuccino 咖啡厅\&quot;.&lt;br /&gt;&lt;br /&gt;点击此链接直接进入游戏:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;马上免费注册\&quot;Cappuccino 咖啡厅\&quot;账号&lt;br /&gt;&lt;br /&gt; 分享您的美食，拥有自己的顾客群，感受一下自己开咖啡厅的乐趣！&lt;br /&gt;&lt;br /&gt;祝您有一个愉快的游戏旅程， %s" />
+			<text id="mail_lost_pw" name="您好 %s!&lt;br /&gt;&lt;br /&gt;我们收到了您找回密码的申请 &lt;br /&gt;您的密码是: %s&lt;br /&gt;&lt;br /&gt;单击这里马上开始游戏:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;如有其它问题，请email联系 support@Cappuccinostudios.com&lt;br /&gt;&lt;br /&gt;祝您玩的愉快!&lt;br /&gt;&lt;br /&gt;您的&lt;br /&gt;Cappuccinostudios.com 团队" />
+			<text id="mail_registration" name="您好,&lt;br /&gt;&lt;br /&gt;感谢您注册&quot;Cappuccino 咖啡厅&quot;。&lt;br /&gt;&lt;br /&gt;您能随时用以下信息登陆游戏:&lt;br /&gt;电子邮件: %s&lt;br /&gt;密码: %s&lt;br /&gt;&lt;br /&gt;单击这里为马上开始游戏:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;如有问题请直接email联系 support@Cappuccinostudios.com&lt;br /&gt;&lt;br /&gt;祝您玩的愉快!&lt;br /&gt;&lt;br /&gt;您的&lt;br /&gt;Cappuccinostudios.com 团队" />
 		</mail>
 		<misc>
 			<text id="marketplace" name="市场" />
@@ -2032,7 +2032,7 @@
 			<text id="generic_alert_win7chromebug" name="" />
 			<text id="generic_invalid_email_provider" name="不允许使用来自此提供商的邮箱地址！" />
 			<text id="generic_js_alert_firstsessiontracking_loading" name="目前，您的网络速度不是很理想。请稍后再试！" />
-			<text id="generic_js_alert_firstsessiontracking_registered" name="您对游戏有什么看法和建议么？请在Goodgame论坛或群组里面留下您宝贵的意见。" />
+			<text id="generic_js_alert_firstsessiontracking_registered" name="您对游戏有什么看法和建议么？请在Cappuccino论坛或群组里面留下您宝贵的意见。" />
 			<text id="generic_js_alert_firstsessiontracking_unregistered" name="请注意:您的游戏进程只有注册之后才能被保存！" />
 			<text id="generic_register_error_invalidemail" name="您输入的邮箱地址不正确" />
 			<text id="generic_report_muted_chattry" name="由于被禁用聊天功能，您将无法进行对话" />
@@ -2081,7 +2081,7 @@
 			<text id="generic_friend" name="好友" />
 			<text id="generic_friends" name="朋友" />
 			<text id="generic_general" name="常规设置" />
-			<text id="generic_ggs" name="Goodgame 游戏工作室" />
+			<text id="generic_ggs" name="Cappuccino 游戏工作室" />
 			<text id="generic_group" name="群组" />
 			<text id="generic_guest" name="客人" />
 			<text id="generic_help" name="帮助" />

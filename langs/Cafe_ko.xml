@@ -512,7 +512,7 @@
 		<text id="coop_desc_short_37" name="The cheese rules all!" />
 		<text id="coop_desc_long_37" name="Chef Cupcakekittycat8 was hired to provide dishes for the birthday of a famous Mouse. Sadly, she used tofu instead of cheese and the mice are furious! Can you make food with cheese to help?" />
 		<text id="coop_title_38" name="BURGER FESTIVAL" />
-		<text id="coop_desc_short_38" name="A classic taste for a gathering1" />
+		<text id="coop_desc_short_38" name="A classic taste for a gathering!" />
 		<text id="coop_desc_long_38" name="Chef Franskmayn is going to serve burgers at the Marketplace. Provide some portions to get a share of the revenue!" />
 		<text id="coop_title_39" name="SWEET LIKE A STRAWBERRY!" />
 		<text id="coop_desc_short_39" name="A bountiful harvest!" />
@@ -852,7 +852,7 @@
 		<text id="joincafe_errorcode_21" name="이미 카페 안에 있습니다!" />
 		<text id="joincafe_errorcode_22" name="카페가 더 이상 존재하지 않습니다!" />
 		<text id="level_error" name="카페에 오류가 발생했습니다. 지원팀으로 문의해주세요." />
-		<text id="level_errorcode_1" name="카페를 더 이상 열 수 없습니다. Goodgame Studios Support 팀에게 문의하세요." />
+		<text id="level_errorcode_1" name="카페를 더 이상 열 수 없습니다. Cappuccino Support 팀에게 문의하세요." />
 		<text id="login_error" name="주의!" />
 		<text id="login_errorcode_1" name="오류" />
 		<text id="login_errorcode_12" name="이미 등록된 플레이어 입니다." />
@@ -957,8 +957,8 @@
 		<text id="limitedfeatureDialog_title" name="조심!" />
 	</feature>
 	<feeds>
-		<text id="descriptionfeedcafe" name="방금 Goodgame Café 게임을 설치했어요. 나만의 카페를 열고 맛있는 식사를 준비해 보시겠어요? 한 번 둘러보세요!" />
-		<text id="descriptionlongcafe" name="Goodgame Café는 Goodgame Studios가 출시한 가장 최신의 게임입니다. 나만의 카페를 열어 최고의 요리실력으로 고객들을 모아보세요. 음식 재료를 구입하고 종업원을 고용해 카페를 여세요. 오늘의 메뉴는 무엇인가요? 마을 최고의 인기 카페로 만들 준비를 지금 당장 시작하세요!" />
+		<text id="descriptionfeedcafe" name="방금 Cappuccino Café 게임을 설치했어요. 나만의 카페를 열고 맛있는 식사를 준비해 보시겠어요? 한 번 둘러보세요!" />
+		<text id="descriptionlongcafe" name="Cappuccino Café는 Cappuccino가 출시한 가장 최신의 게임입니다. 나만의 카페를 열어 최고의 요리실력으로 고객들을 모아보세요. 음식 재료를 구입하고 종업원을 고용해 카페를 여세요. 오늘의 메뉴는 무엇인가요? 마을 최고의 인기 카페로 만들 준비를 지금 당장 시작하세요!" />
 	</feeds>
 	<ingame_tooltips>
 		<text id="fridgetooltip_line1" name="냉장고" />
@@ -1800,9 +1800,9 @@
 	</recipes_fastfood>
 	<server>
 		<mail>
-			<text id="mail_invite_friend" name="안녕하세요 %s님!&lt;br /&gt;&lt;br /&gt;저는 방금 굉장한 온라인 게임 &quot;Goodgame Café&quot; 를 발견했어요.&lt;br /&gt;&lt;br /&gt;아래의 링크를 클릭하시면 곧 바로 게임을 진행할 수 있습니다. &lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;&quot;Goodgame Café&quot;에 무료로 가입하여 자신만의 멋진 카페를 만들어보세요.&lt;br /&gt;&lt;br /&gt;맛있는 음식들을 요리하고, 그 음식으로 손님을 대접하며, 또 자신만의 스타일로 카페를 꾸밀 수 있어요!&lt;br /&gt;&lt;br /&gt;즐거운 시간되세요! %s 드림" />
-			<text id="mail_lost_pw" name="안녕하세요 %s 님!&lt;br /&gt;&lt;br /&gt;본 이메일은 귀하의 비밀번호 문의에 따라 자동으로 발신됩니다.&lt;br /&gt;귀하의 비밀번호는: %s 입니다.&lt;br /&gt;&lt;br /&gt;아래의 링크를 클릭하시면 곧 바로 게임을 진행할 수 있습니다. &lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;문의사항이 있으시면 support@goodgamestudios.com으로 문의해주시기 바랍니다.&lt;br /&gt;&lt;br /&gt;즐거운 게임되시길 바랍니다!&lt;br /&gt;Goodgamestudios팀&lt;br /&gt;Goodgamestudios.com" />
-			<text id="mail_registration" name="안녕하세요,&lt;br /&gt;&lt;br /&gt;&quot;Goodgame Café&quot; 가입을 진심으로 축하합니다.&lt;br /&gt;&lt;br /&gt;아래의 정보로 언제든 로그인이 가능합니다.&lt;br /&gt;이메일: %s&lt;br /&gt;비밀번호: %s&lt;br /&gt;&lt;br /&gt;다음의 링크를 클릭하여 바로 게임을 시작할 수 있습니다.&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;문의사항은 support@goodgamestudios.com으로 보내주세요.&lt;br /&gt;&lt;br /&gt;즐거운 게임되시길 바랍니다!&lt;br /&gt;Goodgamestudios팀&lt;br /&gt;Goodgamestudios.com" />
+			<text id="mail_invite_friend" name="안녕하세요 %s님!&lt;br /&gt;&lt;br /&gt;저는 방금 굉장한 온라인 게임 &quot;Cappuccino Café&quot; 를 발견했어요.&lt;br /&gt;&lt;br /&gt;아래의 링크를 클릭하시면 곧 바로 게임을 진행할 수 있습니다. &lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;&quot;Cappuccino Café&quot;에 무료로 가입하여 자신만의 멋진 카페를 만들어보세요.&lt;br /&gt;&lt;br /&gt;맛있는 음식들을 요리하고, 그 음식으로 손님을 대접하며, 또 자신만의 스타일로 카페를 꾸밀 수 있어요!&lt;br /&gt;&lt;br /&gt;즐거운 시간되세요! %s 드림" />
+			<text id="mail_lost_pw" name="안녕하세요 %s 님!&lt;br /&gt;&lt;br /&gt;본 이메일은 귀하의 비밀번호 문의에 따라 자동으로 발신됩니다.&lt;br /&gt;귀하의 비밀번호는: %s 입니다.&lt;br /&gt;&lt;br /&gt;아래의 링크를 클릭하시면 곧 바로 게임을 진행할 수 있습니다. &lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;문의사항이 있으시면 support@Cappuccinostudios.com으로 문의해주시기 바랍니다.&lt;br /&gt;&lt;br /&gt;즐거운 게임되시길 바랍니다!&lt;br /&gt;Cappuccinostudios팀&lt;br /&gt;Cappuccinostudios.com" />
+			<text id="mail_registration" name="안녕하세요,&lt;br /&gt;&lt;br /&gt;&quot;Cappuccino Café&quot; 가입을 진심으로 축하합니다.&lt;br /&gt;&lt;br /&gt;아래의 정보로 언제든 로그인이 가능합니다.&lt;br /&gt;이메일: %s&lt;br /&gt;비밀번호: %s&lt;br /&gt;&lt;br /&gt;다음의 링크를 클릭하여 바로 게임을 시작할 수 있습니다.&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;문의사항은 support@Cappuccinostudios.com으로 보내주세요.&lt;br /&gt;&lt;br /&gt;즐거운 게임되시길 바랍니다!&lt;br /&gt;Cappuccinostudios팀&lt;br /&gt;Cappuccinostudios.com" />
 		</mail>
 		<misc>
 			<text id="marketplace" name="장터" />
@@ -1990,7 +1990,7 @@
 			<text id="generic_alert_connection_failed_title" name="대기작업중" />
 			<text id="generic_alert_connection_lost_copy" name="서버와의 연결이 끊어졌습니다. 다시 한 번 연결을 시도해주세요." />
 			<text id="generic_alert_connection_lost_description" name="업데이트, 새로운 기능 추가, 오류 수정을 위해 현재 정기 보수 작업 중입니다. &lt;br&gt;&lt;br&gt; 빠른 시간내에 업데이트 작업을 마무리할 것이며, 곧 게임 서비스가 재개될 것입니다." />
-			<text id="generic_alert_connection_lost_promo" name="잠시 Goodgame의 다른 게임을 즐겨 보시지 않겠습니까?" />
+			<text id="generic_alert_connection_lost_promo" name="잠시 Cappuccino의 다른 게임을 즐겨 보시지 않겠습니까?" />
 			<text id="generic_alert_connection_lost_thanks" name="감사합니다!" />
 			<text id="generic_alert_connection_lost_title" name="연결이 끊어졌습니다!" />
 			<text id="generic_alert_error" name="오류" />
@@ -2002,7 +2002,7 @@
 			<text id="generic_alert_win7chromebug" name="" />
 			<text id="generic_invalid_email_provider" name="입력하신 회사의 이메일 계정은 허용되지 않습니다." />
 			<text id="generic_js_alert_firstsessiontracking_loading" name="귀하의 인터넷 연결이 원활하지 않습니다. 나중에 다시 시도해주세요." />
-			<text id="generic_js_alert_firstsessiontracking_registered" name="게임에 대해 어떻게 생각하시나요? 더 재미있게 만들 방법이 있을까요? Goodgame Forum 혹은 그룹에 당신의 생각을 들려주세요!" />
+			<text id="generic_js_alert_firstsessiontracking_registered" name="게임에 대해 어떻게 생각하시나요? 더 재미있게 만들 방법이 있을까요? Cappuccino Forum 혹은 그룹에 당신의 생각을 들려주세요!" />
 			<text id="generic_js_alert_firstsessiontracking_unregistered" name="주의: 게임에 등록하시면 현재 상태가 저장됩니다." />
 			<text id="generic_register_error_invalidemail" name="입력하신 이메일 주소가 정확하지 않습니다." />
 			<text id="generic_report_muted_chattry" name="채팅 기능 정지로 더 이상 사용하 실 수 없습니다." />
@@ -2051,7 +2051,7 @@
 			<text id="generic_friend" name="친구" />
 			<text id="generic_friends" name="친구" />
 			<text id="generic_general" name="일반 환경" />
-			<text id="generic_ggs" name="Goodgame Studios" />
+			<text id="generic_ggs" name="Cappuccino" />
 			<text id="generic_group" name="그룹" />
 			<text id="generic_guest" name="손님" />
 			<text id="generic_help" name="도움말" />

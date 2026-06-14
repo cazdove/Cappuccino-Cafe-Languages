@@ -512,7 +512,7 @@
 		<text id="coop_desc_short_37" name="The cheese rules all!" />
 		<text id="coop_desc_long_37" name="Chef Cupcakekittycat8 was hired to provide dishes for the birthday of a famous Mouse. Sadly, she used tofu instead of cheese and the mice are furious! Can you make food with cheese to help?" />
 		<text id="coop_title_38" name="BURGER FESTIVAL" />
-		<text id="coop_desc_short_38" name="A classic taste for a gathering1" />
+		<text id="coop_desc_short_38" name="A classic taste for a gathering!" />
 		<text id="coop_desc_long_38" name="Chef Franskmayn is going to serve burgers at the Marketplace. Provide some portions to get a share of the revenue!" />
 		<text id="coop_title_39" name="SWEET LIKE A STRAWBERRY!" />
 		<text id="coop_desc_short_39" name="A bountiful harvest!" />
@@ -852,7 +852,7 @@
 		<text id="joincafe_errorcode_21" name="¡Ya estás en este café!" />
 		<text id="joincafe_errorcode_22" name="¡Este café no existe!" />
 		<text id="level_error" name="El Café se encuentra defectuoso. Contacta al soporte técnico." />
-		<text id="level_errorcode_1" name="No puedes abrir tu café. Por favor contacta la asistencia técnica de Goodgame Studios." />
+		<text id="level_errorcode_1" name="No puedes abrir tu café. Por favor contacta la asistencia técnica de Cappuccino." />
 		<text id="login_error" name="¡Cuidado!" />
 		<text id="login_errorcode_1" name="Error" />
 		<text id="login_errorcode_12" name="Usuario ya registrado." />
@@ -957,8 +957,8 @@
 		<text id="limitedfeatureDialog_title" name="¡Cuidado!" />
 	</feature>
 	<feeds>
-		<text id="descriptionfeedcafe" name="Acabo de instalar Goodgame Café. ¿Te gustaría tener tu propio local y cocinar platos sabrosos? ¡Echa un vistazo!" />
-		<text id="descriptionlongcafe" name="Goodgame Café es el juego más reciente de Goodgame Studios. Abre tu propio café e impresiona a tus clientes con tu talento. Contrata a tus amigos y compra ingredientes para tus recetas. Decide qué platos prepararás e incrementa tus ventas. ¡Convierte tu café en el más popular de la ciudad!" />
+		<text id="descriptionfeedcafe" name="Acabo de instalar Cappuccino Café. ¿Te gustaría tener tu propio local y cocinar platos sabrosos? ¡Echa un vistazo!" />
+		<text id="descriptionlongcafe" name="Cappuccino Café es el juego más reciente de Cappuccino. Abre tu propio café e impresiona a tus clientes con tu talento. Contrata a tus amigos y compra ingredientes para tus recetas. Decide qué platos prepararás e incrementa tus ventas. ¡Convierte tu café en el más popular de la ciudad!" />
 	</feeds>
 	<ingame_tooltips>
 		<text id="fridgetooltip_line1" name="Refrigerador" />
@@ -1800,9 +1800,9 @@
 	</recipes_fastfood>
 	<server>
 		<mail>
-			<text id="mail_invite_friend" name="¡Hola! %s!&lt;br /&gt;&lt;br /&gt;Acabo de encontrar un juego fabuloso en línea: &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt; A través de este link llegas directamente al juego:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Regístrate a través del link para crear gratuitamente tu propio café en &quot;Goodgame Café&quot;&lt;br /&gt;&lt;br /&gt; Aprende cómo sería tener tu propio café... ¡dirige tu propia empresa, prepara comidas maravillosas, agasaja a tus comensales y observa lo felices que se ven al salir del local!&lt;br /&gt;&lt;br /&gt;¡Qué te diviertas mucho con el juego! Saludos %s" />
-			<text id="mail_lost_pw" name="¡Hola! %s!&lt;br /&gt;&lt;br /&gt;Recibes este correo automático porque has pedido una contraseña nueva. &lt;br /&gt;Tu contraseña es: %s&lt;br /&gt;&lt;br /&gt; A través de este link llegas directamente al juego:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt; En caso de problemas o preguntas por favor dirígete a support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;¡Esperamos que sigas divirtiéndote con el juego!&lt;br /&gt;&lt;br /&gt;Tu equipo de&lt;br /&gt;Goodgamestudios.com" />
-			<text id="mail_registration" name="Hola,&lt;br /&gt;&lt;br /&gt;gracias por haberte registrado y bienvenido a “Goodgame Café”.&lt;br /&gt;&lt;br /&gt;Puedes conectarte en cualquier momento con los siguientes datos: &lt;br /&gt;Correo electrónico: %s&lt;br /&gt;Contraseña: %s&lt;br /&gt;&lt;br /&gt;Este link te llevará directamente al juego:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;En caso de problemas o preguntas por favor dirígete a support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;¡Diviértete mucho con el juego!&lt;br /&gt;&lt;br /&gt;Tu equipo de&lt;br /&gt;Goodgamestudios.com" />
+			<text id="mail_invite_friend" name="¡Hola! %s!&lt;br /&gt;&lt;br /&gt;Acabo de encontrar un juego fabuloso en línea: &quot;Cappuccino Café&quot;.&lt;br /&gt;&lt;br /&gt; A través de este link llegas directamente al juego:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Regístrate a través del link para crear gratuitamente tu propio café en &quot;Cappuccino Café&quot;&lt;br /&gt;&lt;br /&gt; Aprende cómo sería tener tu propio café... ¡dirige tu propia empresa, prepara comidas maravillosas, agasaja a tus comensales y observa lo felices que se ven al salir del local!&lt;br /&gt;&lt;br /&gt;¡Qué te diviertas mucho con el juego! Saludos %s" />
+			<text id="mail_lost_pw" name="¡Hola! %s!&lt;br /&gt;&lt;br /&gt;Recibes este correo automático porque has pedido una contraseña nueva. &lt;br /&gt;Tu contraseña es: %s&lt;br /&gt;&lt;br /&gt; A través de este link llegas directamente al juego:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt; En caso de problemas o preguntas por favor dirígete a support@Cappuccinostudios.com&lt;br /&gt;&lt;br /&gt;¡Esperamos que sigas divirtiéndote con el juego!&lt;br /&gt;&lt;br /&gt;Tu equipo de&lt;br /&gt;Cappuccinostudios.com" />
+			<text id="mail_registration" name="Hola,&lt;br /&gt;&lt;br /&gt;gracias por haberte registrado y bienvenido a “Cappuccino Café”.&lt;br /&gt;&lt;br /&gt;Puedes conectarte en cualquier momento con los siguientes datos: &lt;br /&gt;Correo electrónico: %s&lt;br /&gt;Contraseña: %s&lt;br /&gt;&lt;br /&gt;Este link te llevará directamente al juego:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;En caso de problemas o preguntas por favor dirígete a support@Cappuccinostudios.com&lt;br /&gt;&lt;br /&gt;¡Diviértete mucho con el juego!&lt;br /&gt;&lt;br /&gt;Tu equipo de&lt;br /&gt;Cappuccinostudios.com" />
 		</mail>
 		<misc>
 			<text id="marketplace" name="Mercado" />
@@ -2002,7 +2002,7 @@
 			<text id="generic_alert_win7chromebug" name="" />
 			<text id="generic_invalid_email_provider" name="No aceptamos direcciones de correo electrónicas de este proveedor." />
 			<text id="generic_js_alert_firstsessiontracking_loading" name="Tu conexión a Internet pareciera estar un poco lenta. ¡Intenta nuevamente más tarde!" />
-			<text id="generic_js_alert_firstsessiontracking_registered" name="¿Cuánto te gusta el juego y qué podemos mejorar? Danos tu opinión en nuestro foro Goodgame o grupo." />
+			<text id="generic_js_alert_firstsessiontracking_registered" name="¿Cuánto te gusta el juego y qué podemos mejorar? Danos tu opinión en nuestro foro Cappuccino o grupo." />
 			<text id="generic_js_alert_firstsessiontracking_unregistered" name="¡Importante! Tu progreso sólo es guardado cuando has iniciado sesión." />
 			<text id="generic_register_error_invalidemail" name="La dirección de correo electrónica ingresada es incorrecta." />
 			<text id="generic_report_muted_chattry" name="Has sido bloqueado, no puedes usar la funcion chat." />
@@ -2051,7 +2051,7 @@
 			<text id="generic_friend" name="Amigo" />
 			<text id="generic_friends" name="Amigos" />
 			<text id="generic_general" name="Ajustes generales" />
-			<text id="generic_ggs" name="Goodgame Studios" />
+			<text id="generic_ggs" name="Cappuccino" />
 			<text id="generic_group" name="Grupo" />
 			<text id="generic_guest" name="Invitado" />
 			<text id="generic_help" name="Ayuda" />

@@ -852,7 +852,7 @@
 		<text id="joincafe_errorcode_21" name="Du er da allerede i denne café!" />
 		<text id="joincafe_errorcode_22" name="Denne Café findes desværre slet ikke!" />
 		<text id="level_error" name="Caféen er fejlbehæftet. Informer venligst Supporten." />
-		<text id="level_errorcode_1" name="Din café kunne ikke åbnes. Informer venligst Goodgame Studios-Support." />
+		<text id="level_errorcode_1" name="Din café kunne ikke åbnes. Informer venligst Cappuccino-Support." />
 		<text id="login_error" name="Attention!" />
 		<text id="login_errorcode_1" name="Fejl" />
 		<text id="login_errorcode_12" name="Bruger er allerede tilmeldt." />
@@ -957,8 +957,8 @@
 		<text id="limitedfeatureDialog_title" name="ATTENTION!" />
 	</feature>
 	<feeds>
-		<text id="descriptionfeedcafe" name="Jeg har lige installeret Goodgame Café. Vil du også åbne dit eget restaurant og koge lækre retter? Så kig da lige ind!" />
-		<text id="descriptionlongcafe" name="Goodgame Café er Goodgame Studios brandnye spillenavn. Åben din egen café og begejstre dine talrige kunder med din kogekunst. Afgør selv, hvilke retter der står på dit spisekort og køb friske ingredienser til dine opskrifter. Ansæt dine venner som tjenere og gør din café til byens mest moderne mødested." />
+		<text id="descriptionfeedcafe" name="Jeg har lige installeret Cappuccino Café. Vil du også åbne dit eget restaurant og koge lækre retter? Så kig da lige ind!" />
+		<text id="descriptionlongcafe" name="Cappuccino Café er Cappuccino brandnye spillenavn. Åben din egen café og begejstre dine talrige kunder med din kogekunst. Afgør selv, hvilke retter der står på dit spisekort og køb friske ingredienser til dine opskrifter. Ansæt dine venner som tjenere og gør din café til byens mest moderne mødested." />
 	</feeds>
 	<ingame_tooltips>
 		<text id="fridgetooltip_line1" name="Køleskab" />
@@ -1800,9 +1800,9 @@
 	</recipes_fastfood>
 	<server>
 		<mail>
-			<text id="mail_invite_friend" name="Hi %s!&lt;br /&gt;&lt; /&gt;&lt;br /&gt;Jeg har lige opdaget det smarte onlinespil &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;Via dette link kommer du direkte til spillet:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Tilmeld dig via linket, så du kan lave din egen café gratis hos &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;Find ud af hvordan det er at have sin egen café. Kog lækre måltider, betjen dine gæster og indret dig en café helt efter din smag!&lt;br /&gt;&lt;br /&gt;God fornøjelse med spillet og mange hilsner, %s" />
-			<text id="mail_lost_pw" name="Hallo %s!&lt;br /&gt;&lt;br /&gt;Du modtager denne automatiske e-mail, fordi du har ansøgt om et nyt password.&lt;br /&gt;Dit password er: %s&lt;br /&gt;&lt;br /&gt;Via dette link kommer du direkte til spillet:&lt;br /&gt;http://www.goodgamestudios.com/cafe/br /&gt;&lt;br /&gt;Ved spørgsmål og problemer kontakt venligst  support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;Vi ønsker dig fortsat god fornøjelse med spillet!&lt;br /&gt;&lt;br /&gt;Dit team fra&lt;br /&gt;Goodgamestudios.com" />
-			<text id="mail_registration" name="Hallo,&lt;br /&gt;&lt;br /&gt;mange tak for din tilmelding og hjerteligt velkommen hos &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;Du kan til enhver tid logge dig på med følgende data:&lt;br /&gt;E-mail: %s&lt;br /&gt;Password: %S&lt;br /&gt;&lt;br /&gt;Via dette link kommer du direkte til spillet:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Ved spørgsmål og problemer kontakt venligst support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;Vi ønsker dig god fornøjelse med spillet! /&gt;&lt;br /&gt;Dit team fra&lt;br /&gt;Goodgamestudios.com" />
+			<text id="mail_invite_friend" name="Hi %s!&lt;br /&gt;&lt; /&gt;&lt;br /&gt;Jeg har lige opdaget det smarte onlinespil &quot;Cappuccino Café&quot;.&lt;br /&gt;&lt;br /&gt;Via dette link kommer du direkte til spillet:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Tilmeld dig via linket, så du kan lave din egen café gratis hos &quot;Cappuccino Café&quot;.&lt;br /&gt;&lt;br /&gt;Find ud af hvordan det er at have sin egen café. Kog lækre måltider, betjen dine gæster og indret dig en café helt efter din smag!&lt;br /&gt;&lt;br /&gt;God fornøjelse med spillet og mange hilsner, %s" />
+			<text id="mail_lost_pw" name="Hallo %s!&lt;br /&gt;&lt;br /&gt;Du modtager denne automatiske e-mail, fordi du har ansøgt om et nyt password.&lt;br /&gt;Dit password er: %s&lt;br /&gt;&lt;br /&gt;Via dette link kommer du direkte til spillet:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/br /&gt;&lt;br /&gt;Ved spørgsmål og problemer kontakt venligst  support@Cappuccinostudios.com&lt;br /&gt;&lt;br /&gt;Vi ønsker dig fortsat god fornøjelse med spillet!&lt;br /&gt;&lt;br /&gt;Dit team fra&lt;br /&gt;Cappuccinostudios.com" />
+			<text id="mail_registration" name="Hallo,&lt;br /&gt;&lt;br /&gt;mange tak for din tilmelding og hjerteligt velkommen hos &quot;Cappuccino Café&quot;.&lt;br /&gt;&lt;br /&gt;Du kan til enhver tid logge dig på med følgende data:&lt;br /&gt;E-mail: %s&lt;br /&gt;Password: %S&lt;br /&gt;&lt;br /&gt;Via dette link kommer du direkte til spillet:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Ved spørgsmål og problemer kontakt venligst support@Cappuccinostudios.com&lt;br /&gt;&lt;br /&gt;Vi ønsker dig god fornøjelse med spillet! /&gt;&lt;br /&gt;Dit team fra&lt;br /&gt;Cappuccinostudios.com" />
 		</mail>
 		<misc>
 			<text id="marketplace" name="Markedsplads" />
@@ -2002,7 +2002,7 @@
 			<text id="generic_alert_win7chromebug" name="" />
 			<text id="generic_invalid_email_provider" name="En e-mailadresse fra denne tilbyder er ikke tilladt!" />
 			<text id="generic_js_alert_firstsessiontracking_loading" name="Din internetforbindelse lader til at være meget langsom for tide. Prøv igen senere!" />
-			<text id="generic_js_alert_firstsessiontracking_registered" name="Hvad synes du om spillet og hvad kan gøres bedre? Skriv din mening i vores Goodgame-Forum henholdsvis gruppe!" />
+			<text id="generic_js_alert_firstsessiontracking_registered" name="Hvad synes du om spillet og hvad kan gøres bedre? Skriv din mening i vores Cappuccino-Forum henholdsvis gruppe!" />
 			<text id="generic_js_alert_firstsessiontracking_unregistered" name="Attention: Din spillestand bliver kun lagret, når du lader dig registrere!" />
 			<text id="generic_register_error_invalidemail" name="E-mailadressen, du har indtastet, er ikke korrekt." />
 			<text id="generic_report_muted_chattry" name="Du kan desværre ikke benytte chatten i øjeblikket på grund af din spærring." />
@@ -2051,7 +2051,7 @@
 			<text id="generic_friend" name="Ven" />
 			<text id="generic_friends" name="Venner" />
 			<text id="generic_general" name="Generelt" />
-			<text id="generic_ggs" name="Goodgame Studios" />
+			<text id="generic_ggs" name="Cappuccino" />
 			<text id="generic_group" name="Gruppe" />
 			<text id="generic_guest" name="Gæst" />
 			<text id="generic_help" name="Hjælp" />

@@ -512,7 +512,7 @@
 		<text id="coop_desc_short_37" name="The cheese rules all!" />
 		<text id="coop_desc_long_37" name="Chef Cupcakekittycat8 was hired to provide dishes for the birthday of a famous Mouse. Sadly, she used tofu instead of cheese and the mice are furious! Can you make food with cheese to help?" />
 		<text id="coop_title_38" name="BURGER FESTIVAL" />
-		<text id="coop_desc_short_38" name="A classic taste for a gathering1" />
+		<text id="coop_desc_short_38" name="A classic taste for a gathering!" />
 		<text id="coop_desc_long_38" name="Chef Franskmayn is going to serve burgers at the Marketplace. Provide some portions to get a share of the revenue!" />
 		<text id="coop_title_39" name="SWEET LIKE A STRAWBERRY!" />
 		<text id="coop_desc_short_39" name="A bountiful harvest!" />
@@ -957,8 +957,8 @@
 		<text id="limitedfeatureDialog_title" name="ВНИМАНИЕ!" />
 	</feature>
 	<feeds>
-		<text id="descriptionfeedcafe" name="Пишу тебе из своего кафе на Goodgame Café. На плите шкворчит жаркое, поэтому не буду рассусоливать: приходи скорей и помоги мне с банкетом." />
-		<text id="descriptionlongcafe" name="Goodgame Café - это новая игра от Goodgame Studios! Откройте своё собственное кафе и удивляйте клиентов своим кулинарным мастерством. Берите на работу друзей и покупайте только всё самое свежее! Составляйте меню и поднимайте бизнес на ноги. Ваше кафе станет самым популярным местом в городе!" />
+		<text id="descriptionfeedcafe" name="Пишу тебе из своего кафе на Cappuccino Café. На плите шкворчит жаркое, поэтому не буду рассусоливать: приходи скорей и помоги мне с банкетом." />
+		<text id="descriptionlongcafe" name="Cappuccino Café - это новая игра от Cappuccino! Откройте своё собственное кафе и удивляйте клиентов своим кулинарным мастерством. Берите на работу друзей и покупайте только всё самое свежее! Составляйте меню и поднимайте бизнес на ноги. Ваше кафе станет самым популярным местом в городе!" />
 	</feeds>
 	<ingame_tooltips>
 		<text id="fridgetooltip_line1" name="Холодильник" />
@@ -1800,9 +1800,9 @@
 	</recipes_fastfood>
 	<server>
 		<mail>
-			<text id="mail_invite_friend" name="Привет %s!&lt;br /&gt;&lt;br /&gt;Я пишу тебе из новой онлайн игры - &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;Используя эту ссылку, ты попадёшь прямо в игру:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Бесплатно зарегистрируйся, чтобы создать своё собственноe кафе.&lt;br /&gt;&lt;br /&gt;Узнай, каково это - вести бизнес, готовить замечательные блюда и видеть, как довольные клиенты покидают твоё заведение!&lt;br /&gt;&lt;br /&gt;Удачи,%s" />
-			<text id="mail_lost_pw" name="Приветствуем вас, %s!&lt;br /&gt;&lt;br /&gt;Вы получили это автоматическое письмо, так как запросили новый пароль.&lt;br /&gt;Ваш пароль: %s&lt;br /&gt;&lt;br /&gt;По этой ссылке вы попадёте прямо в игру:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Если у вас есть вопросы или проблемы, обратитесь, пожалуйста, по адресу: support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;Мы желаем вам удачной игры!&lt;br /&gt;&lt;br /&gt;Ваша команда&lt;br /&gt;Goodgamestudios.com" />
-			<text id="mail_registration" name="Здравствуйте.&lt;br /&gt;&lt;br /&gt;Спасибо за регистрацию и добро пожаловать в &quot;Goodgame Café&quot;.&lt;br /&gt;&lt;br /&gt;Вы можете в любое время войти в игру, используя эти данные:&lt;br /&gt;E-Mail: %s&lt;br /&gt;Пароль: %s&lt;br /&gt;&lt;br /&gt;Через эту ссылку вы попадёте прямо в игру:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Если у вас имеются вопросы или проблемы, обратитесь, пожалуйста, по адресу support@goodgamestudios.com&lt;br /&gt;&lt;br /&gt;Мы желаем вам удачной игры!&lt;br /&gt;&lt;br /&gt;Ваша команда&lt;br /&gt;Goodgamestudios.com" />
+			<text id="mail_invite_friend" name="Привет %s!&lt;br /&gt;&lt;br /&gt;Я пишу тебе из новой онлайн игры - &quot;Cappuccino Café&quot;.&lt;br /&gt;&lt;br /&gt;Используя эту ссылку, ты попадёшь прямо в игру:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Бесплатно зарегистрируйся, чтобы создать своё собственноe кафе.&lt;br /&gt;&lt;br /&gt;Узнай, каково это - вести бизнес, готовить замечательные блюда и видеть, как довольные клиенты покидают твоё заведение!&lt;br /&gt;&lt;br /&gt;Удачи,%s" />
+			<text id="mail_lost_pw" name="Приветствуем вас, %s!&lt;br /&gt;&lt;br /&gt;Вы получили это автоматическое письмо, так как запросили новый пароль.&lt;br /&gt;Ваш пароль: %s&lt;br /&gt;&lt;br /&gt;По этой ссылке вы попадёте прямо в игру:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Если у вас есть вопросы или проблемы, обратитесь, пожалуйста, по адресу: support@Cappuccinostudios.com&lt;br /&gt;&lt;br /&gt;Мы желаем вам удачной игры!&lt;br /&gt;&lt;br /&gt;Ваша команда&lt;br /&gt;Cappuccinostudios.com" />
+			<text id="mail_registration" name="Здравствуйте.&lt;br /&gt;&lt;br /&gt;Спасибо за регистрацию и добро пожаловать в &quot;Cappuccino Café&quot;.&lt;br /&gt;&lt;br /&gt;Вы можете в любое время войти в игру, используя эти данные:&lt;br /&gt;E-Mail: %s&lt;br /&gt;Пароль: %s&lt;br /&gt;&lt;br /&gt;Через эту ссылку вы попадёте прямо в игру:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;Если у вас имеются вопросы или проблемы, обратитесь, пожалуйста, по адресу support@Cappuccinostudios.com&lt;br /&gt;&lt;br /&gt;Мы желаем вам удачной игры!&lt;br /&gt;&lt;br /&gt;Ваша команда&lt;br /&gt;Cappuccinostudios.com" />
 		</mail>
 		<misc>
 			<text id="marketplace" name="Рынок" />
@@ -2051,7 +2051,7 @@
 			<text id="generic_friend" name="Друг" />
 			<text id="generic_friends" name="Друзья" />
 			<text id="generic_general" name="Общие установки" />
-			<text id="generic_ggs" name="Goodgame Studios" />
+			<text id="generic_ggs" name="Cappuccino" />
 			<text id="generic_group" name="Группа" />
 			<text id="generic_guest" name="Гость" />
 			<text id="generic_help" name="Помощь" />

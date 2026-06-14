@@ -512,7 +512,7 @@
 		<text id="coop_desc_short_37" name="The cheese rules all!" />
 		<text id="coop_desc_long_37" name="Chef Cupcakekittycat8 was hired to provide dishes for the birthday of a famous Mouse. Sadly, she used tofu instead of cheese and the mice are furious! Can you make food with cheese to help?" />
 		<text id="coop_title_38" name="BURGER FESTIVAL" />
-		<text id="coop_desc_short_38" name="A classic taste for a gathering1" />
+		<text id="coop_desc_short_38" name="A classic taste for a gathering!" />
 		<text id="coop_desc_long_38" name="Chef Franskmayn is going to serve burgers at the Marketplace. Provide some portions to get a share of the revenue!" />
 		<text id="coop_title_39" name="SWEET LIKE A STRAWBERRY!" />
 		<text id="coop_desc_short_39" name="A bountiful harvest!" />
@@ -958,7 +958,7 @@
 	</feature>
 	<feeds>
 		<text id="descriptionfeedcafe" name="グッドゲームカフェをインストールしました。あなたも自分のカフェを経営して、美味しい料理を作ってみませんか? 是非ご覧下さい。" />
-		<text id="descriptionlongcafe" name="Goodgame Caféは、Goodgame Studiosの最新ゲームタイトルです。あなたのカフェをオープンして、たくさんのお客を自分の料理で魅了してみませんか? 自分でメニューを決めて、レシピにあった新鮮な食材を買いに行きます。友達をフロアスタッフに雇ったら、自分のカフェを街で一番の人気スポットにしてみましょう。" />
+		<text id="descriptionlongcafe" name="Cappuccino Caféは、Cappuccinoの最新ゲームタイトルです。あなたのカフェをオープンして、たくさんのお客を自分の料理で魅了してみませんか? 自分でメニューを決めて、レシピにあった新鮮な食材を買いに行きます。友達をフロアスタッフに雇ったら、自分のカフェを街で一番の人気スポットにしてみましょう。" />
 	</feeds>
 	<ingame_tooltips>
 		<text id="fridgetooltip_line1" name="冷蔵庫" />
@@ -1800,9 +1800,9 @@
 	</recipes_fastfood>
 	<server>
 		<mail>
-			<text id="mail_invite_friend" name="こんにちは。%s!&lt;br /&gt;&lt;br /&gt;さっき見つけた面白いオンラインゲーム「グッドゲームカフェ」を紹介します。&lt;br /&gt;&lt;br /&gt; ゲームへの直接のリンクはこちらです:&lt;br /&gt; http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;リンク先で登録すると、「グッドゲームカフェ」にて自分のカフェを無料で作成できます。&lt;br /&gt;&lt;br /&gt;美味しい料理を作り、お客さんをもてなし、店を自分の好みにカスタマイズして、カフェ経営者の気分を味わってみませんか?&lt;br /&gt;&lt;br /&gt; では、ゲームを楽しんでいってください!%s" />
-			<text id="mail_lost_pw" name="こんにちは%s!&lt;br /&gt;&lt;br /&gt; このEメールは、新しいパスワードを申請したユーザーに自動的に発送されています。&lt;br /&gt;あなたのパスワードは: %s&lt;br /&gt;&lt;br /&gt;ゲームへの直接のリンクはこちらです:&lt;br /&gt; http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt; ご質問、不具合などの際には、お気軽にsupport@goodgamestudios.comまでご連絡ください。&lt;br /&gt;&lt;br /&gt; では、ゲームを楽しんでいってください!&lt;br /&gt;&lt;br /&gt; Goodgamestudios.com&lt;br /&gt;チーム一同" />
-			<text id="mail_registration" name="こんにちは。&lt;br /&gt;&lt;br /&gt;ご登録ありがとうございます。「グッドゲームカフェ」にようこそ。&lt;br /&gt;&lt;br /&gt;以下のデータで、いつでもログインできます: :&lt;br /&gt;Eメール: %s&lt;br /&gt;パスワード: %s&lt;br /&gt;&lt;br /&gt;ゲームへの直接のリンクはこちらです:&lt;br /&gt;http://www.goodgamestudios.com/cafe/&lt;br /&gt;&lt;br /&gt;ご質問、不具合などの際には、お気軽にsupport@goodgamestudios.comまでご連絡ください。&lt;br /&gt;&lt;br /&gt;では、ゲームを楽しんでいってください! &lt;br /&gt;&lt;br /&gt;Goodgamestudios.com&lt;br /&gt;チーム一同" />
+			<text id="mail_invite_friend" name="こんにちは。%s!&lt;br /&gt;&lt;br /&gt;さっき見つけた面白いオンラインゲーム「グッドゲームカフェ」を紹介します。&lt;br /&gt;&lt;br /&gt; ゲームへの直接のリンクはこちらです:&lt;br /&gt; http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;リンク先で登録すると、「グッドゲームカフェ」にて自分のカフェを無料で作成できます。&lt;br /&gt;&lt;br /&gt;美味しい料理を作り、お客さんをもてなし、店を自分の好みにカスタマイズして、カフェ経営者の気分を味わってみませんか?&lt;br /&gt;&lt;br /&gt; では、ゲームを楽しんでいってください!%s" />
+			<text id="mail_lost_pw" name="こんにちは%s!&lt;br /&gt;&lt;br /&gt; このEメールは、新しいパスワードを申請したユーザーに自動的に発送されています。&lt;br /&gt;あなたのパスワードは: %s&lt;br /&gt;&lt;br /&gt;ゲームへの直接のリンクはこちらです:&lt;br /&gt; http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt; ご質問、不具合などの際には、お気軽にsupport@Cappuccinostudios.comまでご連絡ください。&lt;br /&gt;&lt;br /&gt; では、ゲームを楽しんでいってください!&lt;br /&gt;&lt;br /&gt; Cappuccinostudios.com&lt;br /&gt;チーム一同" />
+			<text id="mail_registration" name="こんにちは。&lt;br /&gt;&lt;br /&gt;ご登録ありがとうございます。「グッドゲームカフェ」にようこそ。&lt;br /&gt;&lt;br /&gt;以下のデータで、いつでもログインできます: :&lt;br /&gt;Eメール: %s&lt;br /&gt;パスワード: %s&lt;br /&gt;&lt;br /&gt;ゲームへの直接のリンクはこちらです:&lt;br /&gt;http://www.Cappuccinostudios.com/cafe/&lt;br /&gt;&lt;br /&gt;ご質問、不具合などの際には、お気軽にsupport@Cappuccinostudios.comまでご連絡ください。&lt;br /&gt;&lt;br /&gt;では、ゲームを楽しんでいってください! &lt;br /&gt;&lt;br /&gt;Cappuccinostudios.com&lt;br /&gt;チーム一同" />
 		</mail>
 		<misc>
 			<text id="marketplace" name="マーケットプレイス" />
@@ -2051,7 +2051,7 @@
 			<text id="generic_friend" name="友だち" />
 			<text id="generic_friends" name="友だち" />
 			<text id="generic_general" name="全般" />
-			<text id="generic_ggs" name="Goodgame Studios" />
+			<text id="generic_ggs" name="Cappuccino" />
 			<text id="generic_group" name="グループ" />
 			<text id="generic_guest" name="ゲスト" />
 			<text id="generic_help" name="ヘルプ" />
