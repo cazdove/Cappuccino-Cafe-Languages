@@ -426,7 +426,7 @@
 		<text id="coop_desc_long_3" name="En sportklubb från Hamburg är på besök och jag vill att de ska känna sig hemma. Vad sägs?" />
 		<text id="coop_desc_long_4" name="Jag planerar en trädgårdsfest med många gäster! Jag har hört att ni erbjuder suverän catering. Kanske ni kan hjälpa mig?" />
 		<text id="coop_desc_long_5" name="Stadens skidpark tänker hålla en stor after ski-fest och behöver mängder av god mat! Kan du hjälpa dem?" />
-		<text id="coop_desc_long_6" name="Min chef kommer över ikväll och jag vill verkligen imponera på honom med en 4-rätters måltid... kan du ta hand om det?" />
+		<text id="coop_desc_long_6" name="Min chef kommer över ikväll och jag vill verkligen imponera honom med en 4-rätters måltid... kan du ta hand om det?" />
 		<text id="coop_desc_long_7" name="En eld slog ut i skolmatsalen och barnen har inte fått något att äta! Kan du hjälpa oss och tillaga något gott?" />
 		<text id="coop_desc_long_8" name="Min bästa vän tänker hålla en stor födelsedagsfest, men glömde att beställa mat... kan ni hjälpa oss?" />
 		<text id="coop_desc_long_9" name="Byn tänker hålla en fest med italienskt tema. Det enda som saknas är maten... har du vad som krävs?" />
@@ -461,44 +461,44 @@
 		<text id="coop_title_8" name="FÖDELSEDAGSFEST!" />
 		<text id="coop_title_9" name="ITALIENSK BUFFÉ" />
 		<text id="coop_title_16" name="MORGONRUSNING!" />
-		<text id="coop_desc_short_16" name="Start the day right!" />
-		<text id="coop_desc_long_16" name="Chef cupcakekittycat8 will host a big breakfast at the Marketplace. Can you provide some of what will be served?" />
-		<text id="coop_title_17" name="POST-LUNCH DESSERTS" />
-		<text id="coop_desc_short_17" name="Craving sweets are we?" />
-		<text id="coop_desc_long_17" name="Chef Gabriel served a salty lunch and the costumers are craving many sweets! Help out and sweeten the day!" />
-		<text id="coop_title_18" name="FOOD CRITIC VISIT!" />
-		<text id="coop_desc_short_18" name="Cook to impress!" />
-		<text id="coop_desc_long_18" name="Chef cupcakekittycat8 invited a food critic to visit your Café and he has a refined taste! It is time to cook!" />
-		<text id="coop_title_19" name="LAN PARTY!" />
-		<text id="coop_desc_short_19" name="Fast food for fast games!" />
-		<text id="coop_desc_long_19" name="Chef Surfguiger5 decided to join a LAN party and was tasked with bringing the food. The attendees want a lot, though! Help out!" />
-		<text id="coop_title_20" name="LATE NIGHT DRIVE THRU" />
-		<text id="coop_desc_short_20" name="A quick dinner for a long day!" />
-		<text id="coop_desc_long_20" name="Chef Patawka opened a drive-thru and is willing to share profits with anyone that helps provide food for it. Participate!" />
-		<text id="coop_title_21" name="FIT FOOD ONLY!" />
-		<text id="coop_desc_short_21" name="It&apos;s time to eat well!" />
-		<text id="coop_desc_long_21" name="Chef Surfguiger5 learned about the craze of Triple Omelettes and is concerned about weight gain. Cook healthy food to prove that your Café is healthy too!" />
-		<text id="coop_title_22" name="HOTEL BRUNCH" />
-		<text id="coop_desc_short_22" name="Want a quick bite?" />
-		<text id="coop_desc_long_22" name="Chef Surfguiger5 was asked by the local hotel to provide food for a brunch. However, the stoves broke and it&apos;s up to you to help! Profits will be shared." />
-		<text id="coop_title_23" name="BRAZILIAN WAY" />
-		<text id="coop_desc_short_23" name="Enjoy what Brazil has to offer!" />
-		<text id="coop_desc_long_23" name="Chef Surfguiger5 wants everyone to taste Brazilian food. Cook it!" />
-		<text id="coop_title_24" name="THE CARB COUNTER" />
+		<text id="coop_desc_short_16" name="Börja din dag på ditt sätt!" />
+		<text id="coop_desc_long_16" name="Kocken cupcakekittycat8 kommer arrangera ett stort frukostbord på Marknaden. Kan du laga alla rätter i tid?" />
+		<text id="coop_title_17" name="DESSERT EFTER LUNCH" />
+		<text id="coop_desc_short_17" name="Sugen på sötsaker?" />
+		<text id="coop_desc_long_17" name="Kocken Gabriel serverade saltig lunch och kunderna kräver nu något sött! Se till att förverkliga deras önskningar!" />
+		<text id="coop_title_18" name="BESÖK FRÅN MATKRITIKERN!" />
+		<text id="coop_desc_short_18" name="Din matlagning ska imponera!" />
+		<text id="coop_desc_long_18" name="Kocken cupcakekittycat8 bjöd in en matkritiker till ditt kafé! Bevisa att du har förträffliga kulinariska sinnen!" />
+		<text id="coop_title_19" name="LAN PARTAJ!" />
+		<text id="coop_desc_short_19" name="Snabbmat för snabba spel!" />
+		<text id="coop_desc_long_19" name="Kocken Surfguiger5 bestämde sig för att vara på ett LAN party och fick i uppdrag att skaffa mat. Deltagarna har dock enorm aptit! Hjälp till!" />
+		<text id="coop_title_20" name="MIDNATTS-DRIVE-THRU" />
+		<text id="coop_desc_short_20" name="En snabb måltid efter en lång dag!" />
+		<text id="coop_desc_long_20" name="Kocken Patawka har öppnat en drive-thru och är villig att dela på inkomsterna med vem som än hjälper honom. Har du möjlighet att delta?" />
+		<text id="coop_title_21" name="ENDAST HÄLSOSAM MAT!" />
+		<text id="coop_desc_short_21" name="Det är dags att bli i form!" />
+		<text id="coop_desc_long_21" name="Kocken Surfguiger5 har hört om populäriteten av Trippelomeletter och oroar sig om viktökning. Servera hälsosam mat och bevisa att ditt kafé är på tipptopp!" />
+		<text id="coop_title_22" name="HOTELL BRUNCH" />
+		<text id="coop_desc_short_22" name="Kort smakprov?" />
+		<text id="coop_desc_long_22" name="Kocken Surfguiger5 blev efterfrågad av ett hotell med att förbereda brunch. Tyvärr så har spiserna gått sönder och det är upp till dig att hjälpa hotellet! Inkomsterna fördelas." />
+		<text id="coop_title_23" name="PÅ BRAZILIANSKT VIS" />
+		<text id="coop_desc_short_23" name="Njut av allt Brazilien har att erbjuda!" />
+		<text id="coop_desc_long_23" name="Kocken Surfguiger5 önskar att alla får smaka på brazilianskt mat. Gå och tillaga det!" />
+		<text id="coop_title_24" name="KOLHYDRATMÄTAREN" />
 		<text id="coop_desc_short_24" name="An energy refill!" />
-		<text id="coop_desc_long_24" name="The local gym asked chef Artemis to supply dishes rich in carbs to keep the clients energized. Help out to earn your share too!" />
+		<text id="coop_desc_long_24" name="The local gym asked kocken Artemis to supply dishes rich in carbs to keep the clients energized. Help out to earn your share too!" />
 		<text id="coop_title_25" name="WEDDING TASTING" />
 		<text id="coop_desc_short_25" name="A marriage is coming!" />
-		<text id="coop_desc_long_25" name="Chef Kvmxl said that the Café Lady and the Muffin Man are getting married! It was said that they will pay nicely for any Café that has their favorite food. Are the rumors true?" />
+		<text id="coop_desc_long_25" name="Kocken Kvmxl said that the Café Lady and the Muffin Man are getting married! It was said that they will pay nicely for any Café that has their favorite food. Are the rumors true?" />
 		<text id="coop_title_26" name="DINNER BUFFET" />
 		<text id="coop_desc_short_26" name="Eat up!" />
-		<text id="coop_desc_long_26" name="Chef Cupcakekittycat8 wants a dinner with plenty of food. Help out!" />
+		<text id="coop_desc_long_26" name="Kocken Cupcakekittycat8 wants a dinner with plenty of food. Help out!" />
 		<text id="coop_title_27" name="OISH-SOME" />
 		<text id="coop_desc_short_27" name="So great!" />
-		<text id="coop_desc_long_27" name="Chef Nao wants to serve food for an anime convention happening at the Café next door. Give a hand!" />
+		<text id="coop_desc_long_27" name="Kocken Nao wants to serve food for an anime convention happening at the Café next door. Give a hand!" />
 		<text id="coop_title_28" name="COCOANFESSION" />
 		<text id="coop_desc_short_28" name="The true love is Chocolate!" />
-		<text id="coop_desc_long_28" name="Chef Nao wants to popularize chocolate dishes around the neighborhood and will pay for it. Why not participate?" />
+		<text id="coop_desc_long_28" name="Kocken Nao wants to popularize chocolate dishes around the neighborhood and will pay for it. Why not participate?" />
 		<text id="coop_title_31" name="CURRY FESTIVAL" />
 		<text id="coop_desc_short_31" name="There&apos;s an option for everyone!" />
 		<text id="coop_desc_long_31" name="A local Indian festival wants to hand out as much curry as possible to guests. Can you help?" />
@@ -510,25 +510,25 @@
 		<text id="coop_desc_long_32" name="An international event is happening but Brazilian and Portugese visitors are homesick. Make traditional food to make them happy!" />
 		<text id="coop_title_33" name="DEV&apos;S CHOICE!" />
 		<text id="coop_desc_short_33" name="Fuel for more development!" />
-		<text id="coop_desc_long_33" name="Chef Gab needs very large amounts of his favorite food to be cooked to stress test the servers! Help out!" />
+		<text id="coop_desc_long_33" name="Kocken Gab needs very large amounts of his favorite food to be cooked to stress test the servers! Help out!" />
 		<text id="coop_title_34" name="MOUSSE BATTLE!" />
 		<text id="coop_desc_short_34" name="Which one is the best?" />
-		<text id="coop_desc_long_34" name="Chefs all around the world are battling to see which mousse is the best. Play for all teams and see what&apos;s up!" />
+		<text id="coop_desc_long_34" name="Kockar all around the world are battling to see which mousse is the best. Play for all teams and see what&apos;s up!" />
 		<text id="coop_title_35" name="FAMILY FEAST" />
 		<text id="coop_desc_short_35" name="So many guests!" />
 		<text id="coop_desc_long_35" name="Your whole family, their friends, your friends and their families are ALL coming to your Café to celebrate your business. Do them proud!" />
 		<text id="coop_title_36" name="WE NEED LOTS OF EGGS!" />
 		<text id="coop_desc_short_36" name="Did they actually come first?" />
-		<text id="coop_desc_long_36" name="Chef Myleeek is conducting research on who came first: the chicken or the egg? Cook dishes with eggs to provide data!" />
+		<text id="coop_desc_long_36" name="Kocken Myleeek is conducting research on who came first: the chicken or the egg? Cook dishes with eggs to provide data!" />
 		<text id="coop_title_37" name="A GRATE MISTAKE!" />
 		<text id="coop_desc_short_37" name="The cheese rules all!" />
-		<text id="coop_desc_long_37" name="Chef Cupcakekittycat8 was hired to provide dishes for the birthday of a famous Mouse. Sadly, she used tofu instead of cheese and the mice are furious! Can you make food with cheese to help?" />
+		<text id="coop_desc_long_37" name="Kocken Cupcakekittycat8 was hired to provide dishes for the birthday of a famous Mouse. Sadly, she used tofu instead of cheese and the mice are furious! Can you make food with cheese to help?" />
 		<text id="coop_title_38" name="BURGER FESTIVAL" />
 		<text id="coop_desc_short_38" name="A classic taste for a gathering!" />
-		<text id="coop_desc_long_38" name="Chef Franskmayn is going to serve burgers at the Marketplace. Provide some portions to get a share of the revenue!" />
+		<text id="coop_desc_long_38" name="Kocken Franskmayn is going to serve burgers at the Marketplace. Provide some portions to get a share of the revenue!" />
 		<text id="coop_title_39" name="SWEET LIKE A STRAWBERRY!" />
 		<text id="coop_desc_short_39" name="A bountiful harvest!" />
-		<text id="coop_desc_long_39" name="The strawberry harvest was excellent and chef Gabriel wants to share the sweetness with everyone. Let&apos;s make some berry-licious dishes!" />
+		<text id="coop_desc_long_39" name="The strawberry harvest was excellent and kock Gabriel wants to share the sweetness with everyone. Let&apos;s make some berry-licious dishes!" />
 		<text id="coop_title_30" name="A MOUSE IN THE KITCHEN!" />
 		<text id="coop_desc_short_30" name="Don&apos;t let anyone see it!" />
 		<text id="coop_desc_long_30" name="A mouse was spotted in your Café and it wants fancy food to be served or it will ruin your business! Why does this feel familiar?" />
