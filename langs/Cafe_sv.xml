@@ -1138,8 +1138,8 @@
 		<text id="preparestep_chickensalad_tomato" name="Skär upp tomater" />
 		<text id="preparestep_chickensoup_bacon" name="Stek bacon" />
 		<text id="preparestep_ramen_chili" name="Krydda till" />
-		<text id="preparestep_corncake_sweetcorn" name="Make cornflakes" />
-		<text id="preparestep_corncake_butter" name="Melt butter" />
+		<text id="preparestep_corncake_sweetcorn" name="Tillsätt majsflingor" />
+		<text id="preparestep_corncake_butter" name="Häll smör" />
 		<text id="preparestep_chickensoup_chicken" name="Grilla kyckling" />
 		<text id="preparestep_chickensoup_onion" name="Hacka lök" />
 		<text id="preparestep_chickensoup_pasta" name="Beräkna pasta" />
@@ -1150,100 +1150,100 @@
 		<text id="preparestep_chiliconcarne_mincemeat" name="Krydda köttfärs" />
 		<text id="preparestep_chiliconcarne_onion" name="Hacka lök" />
 		<text id="preparestep_feijoada_coriander" name="Hacka koriander" />
-		<text id="preparestep_pinapjuice_pinapple" name="Chop pineapple" />
-		<text id="preparestep_pinapjuice_vanilla" name="Add vanilla" />
-		<text id="preparestep_orangejuice_orange" name="Slice oranges" />
-		<text id="preparestep_orangejuice_sugar" name="Add sugar" />
-		<text id="preparestep_orangejuice_vanilla" name="Add vanilla" />
-		<text id="preparestep_discodrinks_cream" name="Whip cream" />
-		<text id="preparestep_discodrinks_pinapple" name="Chop pineapple" />
-		<text id="preparestep_discodrinks_apple" name="Slice apples" />
-		<text id="preparestep_discodrinks_sugar" name="Add sugar" />
-		<text id="preparestep_discodrinks_milk" name="Pour milk" />
-		<text id="preparestep_discodrinks_vanilla" name="Add vanilla" />
-		<text id="preparestep_applejuice_apple" name="Slice apples" />
-		<text id="preparestep_applejuice_sugar" name="Add sugar" />
-		<text id="preparestep_applejuice_vanilla" name="Add vanilla" />
-		<text id="preparestep_rjuice_rhubarb" name="Chop rhubarb" />
-		<text id="preparestep_rjuice_sugar" name="Add sugar" />
-		<text id="preparestep_rjuice_vanilla" name="Add vanilla" />
-		<text id="preparestep_cherryjuice_cherries" name="Wash cherries" />
-		<text id="preparestep_cherryjuice_sugar" name="Add sugar" />
-		<text id="preparestep_cherryjuice_vanilla" name="Add vanilla" />
-		<text id="preparestep_strawberryjuice_strawberry" name="Wash strawberries" />
-		<text id="preparestep_strawberryjuice_sugar" name="Add sugar" />
-		<text id="preparestep_strawberryjuice_vanilla" name="Add vanilla" />
-		<text id="preparestep_cappuccino_cookfest" name="Think about next Cookfest" />
+		<text id="preparestep_pinapjuice_pinapple" name="Skär upp ananas" />
+		<text id="preparestep_pinapjuice_vanilla" name="Skrapa vanilj" />
+		<text id="preparestep_orangejuice_orange" name="Skala apelsiner" />
+		<text id="preparestep_orangejuice_sugar" name="Tillsätt socker" />
+		<text id="preparestep_orangejuice_vanilla" name="Skrapa vanilj" />
+		<text id="preparestep_discodrinks_cream" name="Vispa grädde" />
+		<text id="preparestep_discodrinks_pinapple" name="Skär upp ananas" />
+		<text id="preparestep_discodrinks_apple" name="Skala äpplen" />
+		<text id="preparestep_discodrinks_sugar" name="Tillsätt socker" />
+		<text id="preparestep_discodrinks_milk" name="Häll mjölk" />
+		<text id="preparestep_discodrinks_vanilla" name="Skrapa vanilj" />
+		<text id="preparestep_applejuice_apple" name="Skala äpplen" />
+		<text id="preparestep_applejuice_sugar" name="Tillsätt socker" />
+		<text id="preparestep_applejuice_vanilla" name="Skrapa vanilj" />
+		<text id="preparestep_rjuice_rhubarb" name="Hacka rabarber" />
+		<text id="preparestep_rjuice_sugar" name="Tillsätt socker" />
+		<text id="preparestep_rjuice_vanilla" name="Skrapa vanilj" />
+		<text id="preparestep_cherryjuice_cherries" name="Skölj körsbär" />
+		<text id="preparestep_cherryjuice_sugar" name="Tillsätt socker" />
+		<text id="preparestep_cherryjuice_vanilla" name="Skrapa vanilj" />
+		<text id="preparestep_strawberryjuice_strawberry" name="Tvätta jordgubbar" />
+		<text id="preparestep_strawberryjuice_sugar" name="Tillsätt socker" />
+		<text id="preparestep_strawberryjuice_vanilla" name="Skrapa vanilj" />
+		<text id="preparestep_cappuccino_cookfest" name="Längta efter nästa Cookfest" />
 		<text id="preparestep_cappuccino_cinnamon" name="Strö kanel" />
-		<text id="preparestep_duckalcitrus_duck" name="Prepare duck" />
-		<text id="preparestep_duckalcitrus_butter" name="Melt butter" />
-		<text id="preparestep_duckalcitrus_onion" name="Chop onions" />
-		<text id="preparestep_duckalcitrus_citrus" name="Squeeze citrus" />
-		<text id="preparestep_ducktatters_duck" name="Prepare duck" />
-		<text id="preparestep_ducktatters_potato" name="Chop potatoes" />
-		<text id="preparestep_ducktatters_pasta" name="Boil pasta" />
-		<text id="preparestep_ducktatters_oil" name="Heat oil" />
-		<text id="preparestep_langos_flour" name="Sift flour" />
-		<text id="preparestep_langos_eggs" name="Crack eggs" />
-		<text id="preparestep_langos_cream" name="Whip cream" />
-		<text id="preparestep_langos_garlic" name="Press garlic" />
-		<text id="preparestep_langos_cheese" name="Grate cheese" />
-		<text id="preparestep_nasilemak_rice" name="Wash rice" />
-		<text id="preparestep_nasilemak_eggs" name="Boil eggs" />
-		<text id="preparestep_nasilemak_onion" name="Chop onions" />
-		<text id="preparestep_nasilemak_beans" name="Cook beans" />
-		<text id="preparestep_nasilemak_cucumber" name="Slice cucumbers" />
-		<text id="preparestep_citrusjuice_citrus" name="Squeeze citrus" />
-		<text id="preparestep_citrusjuice_sugar" name="Measure sugar" />
-		<text id="preparestep_carrotcake_carrots" name="Grate carrots" />
-		<text id="preparestep_carrotcake_flour" name="Sift flour" />
-		<text id="preparestep_carrotcake_whitechocolat" name="Chop white chocolate" />
-		<text id="preparestep_carrotcake_chocolate" name="Melt chocolate" />
-		<text id="preparestep_carrotcake_milk" name="Measure milk" />
-		<text id="preparestep_carrotjuice_carrots" name="Peel carrots" />
-		<text id="preparestep_carrotjuice_sugar" name="Measure sugar" />
-		<text id="preparestep_francesinha_cheese" name="Slice cheese" />
-		<text id="preparestep_francesinha_eggs" name="Fry eggs" />
-		<text id="preparestep_francesinha_mincemeat" name="Cook meat" />
-		<text id="preparestep_francesinha_sausages" name="Slice sausages" />
-		<text id="preparestep_francesinha_onion" name="Chop onions" />
-		<text id="preparestep_dorayaki_flour" name="Sift flour" />
-		<text id="preparestep_dorayaki_eggs" name="Crack eggs" />
+		<text id="preparestep_duckalcitrus_duck" name="Förbered anka" />
+		<text id="preparestep_duckalcitrus_butter" name="Häll smör" />
+		<text id="preparestep_duckalcitrus_onion" name="Hacka lök" />
+		<text id="preparestep_duckalcitrus_citrus" name="Pressa citrus" />
+		<text id="preparestep_ducktatters_duck" name="Förbered anka" />
+		<text id="preparestep_ducktatters_potato" name="Hacka potatis" />
+		<text id="preparestep_ducktatters_pasta" name="Koka pasta" />
+		<text id="preparestep_ducktatters_oil" name="Häll olja" />
+		<text id="preparestep_langos_flour" name="Sikta mjöl" />
+		<text id="preparestep_langos_eggs" name="Kläck ägg" />
+		<text id="preparestep_langos_cream" name="Vispa grädde" />
+		<text id="preparestep_langos_garlic" name="Pressa vitlök" />
+		<text id="preparestep_langos_cheese" name="Riv ost" />
+		<text id="preparestep_nasilemak_rice" name="Skölj ris" />
+		<text id="preparestep_nasilemak_eggs" name="Koka ägg" />
+		<text id="preparestep_nasilemak_onion" name="Hacka lök" />
+		<text id="preparestep_nasilemak_beans" name="Koka bönor" />
+		<text id="preparestep_nasilemak_cucumber" name="Skär upp gurka" />
+		<text id="preparestep_citrusjuice_citrus" name="Pressa citrus" />
+		<text id="preparestep_citrusjuice_sugar" name="Beräkna socker" />
+		<text id="preparestep_carrotcake_carrots" name="Riv morötter" />
+		<text id="preparestep_carrotcake_flour" name="Sikta mjöl" />
+		<text id="preparestep_carrotcake_whitechocolat" name="Hacka vitchoklad" />
+		<text id="preparestep_carrotcake_chocolate" name="Häll choklad" />
+		<text id="preparestep_carrotcake_milk" name="Häll mjölk" />
+		<text id="preparestep_carrotjuice_carrots" name="Skala morötter" />
+		<text id="preparestep_carrotjuice_sugar" name="Beräkna socker" />
+		<text id="preparestep_francesinha_cheese" name="Riv ost" />
+		<text id="preparestep_francesinha_eggs" name="Stek ägg" />
+		<text id="preparestep_francesinha_mincemeat" name="Stek köttfärs" />
+		<text id="preparestep_francesinha_sausages" name="Skär upp korv" />
+		<text id="preparestep_francesinha_onion" name="Hacka lök" />
+		<text id="preparestep_dorayaki_flour" name="Sikta mjöl" />
+		<text id="preparestep_dorayaki_eggs" name="Kläck ägg" />
 		<text id="preparestep_dorayaki_beans" name="Mash beans" />
-		<text id="preparestep_dorayaki_sugar" name="Measure sugar" />
-		<text id="preparestep_tiramisu_chocolate" name="Grate chocolate" />
+		<text id="preparestep_dorayaki_sugar" name="Beräkna socker" />
+		<text id="preparestep_tiramisu_chocolate" name="Riv choklad" />
 		<text id="preparestep_tiramisu_cookies" name="Soak cookies" />
 		<text id="preparestep_tiramisu_quark" name="Whip quark" />
 		<text id="preparestep_tiramisu_eggs" name="Separate eggs" />
-		<text id="preparestep_pridecupcakes_flour" name="Sift flour" />
-		<text id="preparestep_pridecupcakes_eggs" name="Crack eggs" />
+		<text id="preparestep_pridecupcakes_flour" name="Sikta mjöl" />
+		<text id="preparestep_pridecupcakes_eggs" name="Kläck ägg" />
 		<text id="preparestep_pridecupcakes_coconut" name="Shave coconut" />
-		<text id="preparestep_pridecupcakes_sugar" name="Measure sugar" />
+		<text id="preparestep_pridecupcakes_sugar" name="Beräkna socker" />
 		<text id="preparestep_pridecupcakes_milk" name="Measure milk" />
 		<text id="preparestep_ratatouille_tomato" name="Cut tomatoes" />
 		<text id="preparestep_ratatouille_eggplant" name="Slice eggplant" />
-		<text id="preparestep_ratatouille_onion" name="Chop onions" />
+		<text id="preparestep_ratatouille_onion" name="Hacka lök" />
 		<text id="preparestep_ratatouille_cream" name="Mix cream" />
 		<text id="preparestep_ratatouille_oil" name="Measure oil" />
 		<text id="preparestep_hotcherryricepudding_rice" name="Weigh rice" />
 		<text id="preparestep_hotcherryricepudding_cherries" name="Pit cherries" />
 		<text id="preparestep_hotcherryricepudding_sugar" name="Measure sugar" />
 		<text id="preparestep_hotcherryricepudding_milk" name="Measure milk" />
-		<text id="preparestep_coconutcake_flour" name="Sift flour" />
-		<text id="preparestep_coconutcake_eggs" name="Crack eggs" />
+		<text id="preparestep_coconutcake_flour" name="Sikta mjöl" />
+		<text id="preparestep_coconutcake_eggs" name="Kläck ägg" />
 		<text id="preparestep_coconutcake_milk" name="Pour milk" />
 		<text id="preparestep_coconutcake_coconut" name="Grate coconut" />
 		<text id="preparestep_coconutcake_sugar" name="Measure sugar" />
-		<text id="preparestep_paodequeijo_eggs" name="Crack eggs" />
+		<text id="preparestep_paodequeijo_eggs" name="Kläck ägg" />
 		<text id="preparestep_paodequeijo_cheese" name="Grate cheese" />
-		<text id="preparestep_paodequeijo_flour" name="Sift flour" />
+		<text id="preparestep_paodequeijo_flour" name="Sikta mjöl" />
 		<text id="preparestep_paodequeijo_oil" name="Measure oil" />
 		<text id="preparestep_baiaodedois_rice" name="Weigh rice" />
 		<text id="preparestep_baiaodedois_beans" name="Rinse beans" />
 		<text id="preparestep_baiaodedois_cheese" name="Cube cheese" />
 		<text id="preparestep_baiaodedois_bacon" name="Cube bacon" />
 		<text id="preparestep_baiaodedois_onion" name="Chop onion" />
-		<text id="preparestep_bakedalaska_cream" name="Whip cream" />
+		<text id="preparestep_bakedalaska_cream" name="Vispa grädde" />
 		<text id="preparestep_bakedalaska_eggs" name="Separate eggs" />
 		<text id="preparestep_bakedalaska_sugar" name="Measure sugar" />
 		<text id="preparestep_butterchicken_tomato" name="Blend tomatoes" />
@@ -1252,23 +1252,23 @@
 		<text id="preparestep_butterchicken_butter" name="Melt butter" />
 		<text id="preparestep_butterchicken_curryspice" name="Add curry" />
 		<text id="preparestep_chickenbiryani_tomato" name="Chop tomatoes" />
-		<text id="preparestep_chickenbiryani_onion" name="Chop onions" />
+		<text id="preparestep_chickenbiryani_onion" name="Hacka lök" />
 		<text id="preparestep_chickenbiryani_rice" name="Cook rice" />
 		<text id="preparestep_chickenbiryani_chicken" name="Sauté chicken" />
 		<text id="preparestep_chickenbiryani_potato" name="Cube potatoes" />
 		<text id="preparestep_cottagepotatoes_cream" name="Mix cream" />
-		<text id="preparestep_cottagepotatoes_onion" name="Chop onions" />
+		<text id="preparestep_cottagepotatoes_onion" name="Hacka lök" />
 		<text id="preparestep_cottagepotatoes_quark" name="Whip quark" />
 		<text id="preparestep_cottagepotatoes_butter" name="Add butter" />
 		<text id="preparestep_cottagepotatoes_potato" name="Boil potatoes" />
 		<text id="preparestep_cuzcuzcomovo_sweetcorn" name="Prepare cornmeal" />
-		<text id="preparestep_cuzcuzcomovo_eggs" name="Crack eggs" />
+		<text id="preparestep_cuzcuzcomovo_eggs" name="Kläck ägg" />
 		<text id="preparestep_cuzcuzcomovo_butter" name="Melt butter" />
 		<text id="preparestep_malaichickennaan_chicken" name="Cut chicken" />
-		<text id="preparestep_malaichickennaan_cream" name="Whip cream" />
+		<text id="preparestep_malaichickennaan_cream" name="Vispa grädde" />
 		<text id="preparestep_malaichickennaan_garlic" name="Press garlic" />
 		<text id="preparestep_malaichickennaan_oil" name="Heat oil" />
-		<text id="preparestep_malaichickennaan_flour" name="Sift flour" />
+		<text id="preparestep_malaichickennaan_flour" name="Sikta mjöl" />
 		<text id="preparestep_veganplate_carrots" name="Peel carrots" />
 		<text id="preparestep_veganplate_peas" name="Cook peas" />
 		<text id="preparestep_veganplate_cucumber" name="Slice cucumber" />
@@ -1277,7 +1277,7 @@
 		<text id="preparestep_neapolitancake_whitechocolat" name="Melt white chocolate" />
 		<text id="preparestep_neapolitancake_chocolate" name="Melt chocolate" />
 		<text id="preparestep_neapolitancake_strawberry" name="Mash strawberries" />
-		<text id="preparestep_neapolitancake_flour" name="Sift flour" />
+		<text id="preparestep_neapolitancake_flour" name="Sikta mjöl" />
 		<text id="preparestep_neapolitancake_milk" name="Pour milk" />
 		<text id="preparestep_strawberrycheesecake_cream" name="Add Cream" />
 		<text id="preparestep_strawberrycheesecake_milk" name="Add Milk" />
@@ -1290,7 +1290,7 @@
 		<text id="preparestep_combomeal_potato" name="Cut fries" />
 		<text id="preparestep_combomeal_oil" name="Add lots of oil" />
 		<text id="preparestep_zcordonbleu_chicken" name="Flatten chicken" />
-		<text id="preparestep_zcordonbleu_flour" name="Sift flour" />
+		<text id="preparestep_zcordonbleu_flour" name="Sikta mjöl" />
 		<text id="preparestep_zcordonbleu_cheese" name="Slice cheese" />
 		<text id="preparestep_zcordonbleu_oil" name="Heat oil" />
 		<text id="preparestep_zcordonbleu_eggs" name="Beat eggs" />
@@ -1300,16 +1300,16 @@
 		<text id="preparestep_brazilianpastel_sugar" name="Make sugarcane drink" />
 		<text id="preparestep_lechonkawali_bacon" name="Slice bacon" />
 		<text id="preparestep_lechonkawali_cucumber" name="Slice cucumber" />
-		<text id="preparestep_lechonkawali_garlic" name="Crush garlic" />
-		<text id="preparestep_lechonkawali_oil" name="Heat oil" />
-		<text id="preparestep_sweetpizza_flour" name="Prepare pizza dough" />
-		<text id="preparestep_sweetpizza_chocolate" name="Melt chocolate" />
-		<text id="preparestep_sweetpizza_strawberry" name="Slice strawberries" />
-		<text id="preparestep_sweetpizza_cookfest" name="Find fruits" />
-		<text id="preparestep_shakshuka_onion" name="Chop onions" />
-		<text id="preparestep_shakshuka_garlic" name="Crush garlic" />
-		<text id="preparestep_shakshuka_tomato" name="Chop tomatoes" />
-		<text id="preparestep_shakshuka_eggs" name="Crack eggs" />
+		<text id="preparestep_lechonkawali_garlic" name="Pressa vitlök" />
+		<text id="preparestep_lechonkawali_oil" name="Häll olja" />
+		<text id="preparestep_sweetpizza_flour" name="Knådar deg" />
+		<text id="preparestep_sweetpizza_chocolate" name="Häll choklad" />
+		<text id="preparestep_sweetpizza_strawberry" name="Skär upp jordgubbar" />
+		<text id="preparestep_sweetpizza_cookfest" name="Hitta frukter" />
+		<text id="preparestep_shakshuka_onion" name="Hacka lök" />
+		<text id="preparestep_shakshuka_garlic" name="Pressa vitlök" />
+		<text id="preparestep_shakshuka_tomato" name="Skär upp tomater" />
+		<text id="preparestep_shakshuka_eggs" name="Kläck ägg" />
 		<text id="preparestep_chiliconcarne_tomato" name="Skär upp tomater" />
 		<text id="preparestep_chocmousse_chocolate" name="Hacka choklad" />
 		<text id="preparestep_chocmousse_cream" name="Vispa grädde" />
@@ -1565,7 +1565,7 @@
 		<text id="preparestep_chocolatewaffles_flour" name="Sikta mjöl" />
 		<text id="preparestep_chocolatewaffles_cream" name="Vispa grädde" />
 		<text id="preparestep_chocolatewaffles_eggs" name="Varsamt kläck ägg" />
-		<text id="preparestep_chocolatewaffles_chocolate" name="Smält choklad" />
+		<text id="preparestep_chocolatewaffles_chocolate" name=" choklad" />
 		<text id="preparestep_spanishomelette_potato" name="Skala potatis" />
 		<text id="preparestep_spanishomelette_onion" name="Hacka lök" />
 		<text id="preparestep_spanishomelette_eggs" name="Kläck ägg på spanska" />
